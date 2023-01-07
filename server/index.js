@@ -1,12 +1,13 @@
 const express = require('express');
-var favicon = require('serve-favicon')
+const favicon = require('express-favicon');
+
 const path = require('path');
 
 const app = express();
 
 const buildDir = path.join(__dirname, '../build');
 console.log('Using files in ' + buildDir);
-
+app.use(favicon(__dirname + '/public/favicon.png'));
 app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')))
 const subDir = '/';
 const logRequests = false;
