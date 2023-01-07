@@ -1,0 +1,131 @@
+.search-box {
+    width: 100%;
+}
+.search-modal {
+    width: 100%;
+    position: absolute;
+    right: 0;
+    background-color: #fff;
+}
+[data-tippy-root] {
+    width: 100%;
+}
+
+.recommend-list ul {
+    width: 100%;
+    li {
+        &:hover {
+            background-color: #1da1f2;
+        }
+    }
+    a {
+        display: flex;
+        width: 100%;
+        padding: 4px;
+    }
+}
+.img-thumb {
+    width: 110px;
+    height: 56px;
+    flex: 1;
+}
+.img-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.title {
+    margin-left: 8px;
+    color: #111;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    flex: 3;
+    text-overflow: ellipsis;
+}
+.search-reset {
+    display: flex;
+}
+.search-inputbox {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    position: relative;
+    align-items: center;
+}
+.search-icon {
+    transform: rotate(90deg);
+    font-size: 2.4rem;
+    margin-top: 4px;
+    position: relative;
+    opacity: 0.8;
+    &:hover {
+        opacity: 1;
+    }
+}
+#search-checkbox {
+    padding: 20px;
+}
+
+.search-content {
+    width: 0%;
+    display: flex;
+    position: relative;
+}
+.search-inputbox input[type='text'] {
+    width: 100%;
+    height: 32px;
+    background-color: transparent;
+    border-top: none;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    color: var(--while-color);
+    font-size: 2rem;
+    margin-left: 12px;
+    border-bottom: 1px solid var(--while-color);
+}
+
+.search-inputbox input::placeholder {
+    color: var(--while-color);
+
+    display: block;
+}
+.icon-reset {
+    position: absolute;
+    right: 0;
+    bottom: 4px;
+}
+// tablet
+@media (max-width: 1300px) {
+    .search-modal {
+        width: 400px;
+    }
+    .search-inputbox input[type='text'] {
+        font-size: 1.6rem;
+    }
+}
+// mobile
+
+@media (max-width: 599px) {
+    .search-inputbox input[type='text'] {
+        margin-left: 4px;
+        font-size: 1.4rem;
+    }
+    .search-modal {
+        width: 250px;
+    }
+    .search-icon {
+        font-size: 2.1rem;
+        margin-top: 8px;
+    }
+    .search-inputbox input[type='text'] {
+        height: 18px;
+    }
+    .icon-reset {
+        bottom: 2px;
+    }
+    .search-content {
+        margin-top: 8px;
+    }
+}

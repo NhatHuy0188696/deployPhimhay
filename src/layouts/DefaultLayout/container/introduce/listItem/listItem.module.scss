@@ -1,0 +1,14 @@
+.infor-item{
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;
+    margin: 86px 0 ;
+}
+@media (max-width: 600px) {
+    .infor-item{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+  
+}

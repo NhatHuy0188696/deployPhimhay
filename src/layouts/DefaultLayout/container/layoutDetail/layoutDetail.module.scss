@@ -1,0 +1,17 @@
+.container-detail{
+    margin: 124px 0;
+}
+.expensive-detail{
+    padding: 0 112px;
+}
+.footer-detail{
+    margin-top: 70px;
+}
+@media (max-width:1024px){
+    .container-detail{
+        margin: 64px 0;
+    }
+    .expensive-detail{
+        padding: 0 12px;
+    }
+}

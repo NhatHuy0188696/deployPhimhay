@@ -1,0 +1,1281 @@
+{
+    "movie":[
+        {
+            "id":1,
+            "mainTitle":"Trip Threat (2019)",
+            "subTitle":"Bộ Ba Vệ Sĩ",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h36m",
+            "MIDB":"5.6",
+            "description":"Ba nhân vật chính Payu (Tony Jaa), Jaka (Iko Uwais), Long Fei (Tiger Chen) sẽ kết hợp cùng với nhau trong nhiệm vụ bảo vệ cô gái có cha là tỷ phú, chủ của một tập đoàn lớn. Trong khi đó sát thủ Collin (do Scott Adkins) dẫn đầu một băng nhóm tội phạm được cử đi để hạ sát cô ta….",
+            "image":"https://image.tmdb.org/t/p/w500//2f8fkWSWOVcTlWforoVpsuaCiwI.jpg",
+            "MovieChildren":[
+                {
+                    "id":1,
+                    "mainTitle":"Glass 2019",
+                    "subTitle":"Bộ Ba Quái nhân",
+                    "image":"https://image.tmdb.org/t/p/w300/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+                    "degree":2,
+                    "level":"High Beginner",
+                    "time":"02h09m",
+                    "MIDB":"6.9",
+                    "description":"Glass (2019) có một sự liên hệ với 2 phần trước đó là Unbreakable (2006) và Split (2016). Không chỉ là sự liên kết với 2 phần trước đó, bộ phim còn được xây dựng trên 1 chuỗi logic tuyệt vời đến không ngờ. Cùng nhau điểm qua một số nét chính trong bộ phim Glass: Bộ ba quái vật năm 2019 nhé!"
+                },
+                {
+                    "id":2,
+                    "mainTitle":"Regin Of the Supermen (2019)",
+                    "subTitle":"Triều Đại của Siêu Nhân",
+                    "image":"https://image.tmdb.org/t/p/w300/cdCMUHWyXBOsbLL4dOEPdCEtwM4.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h27m",
+                    "MIDB":"6.9",
+                    "description":"Glass (2019) có một sự liên hệ với 2 phần trước đó là Unbreakable (2006) và Split (2016). Không chỉ là sự liên kết với 2 phần trước đó, bộ phim còn được xây dựng trên 1 chuỗi logic tuyệt vời đến không ngờ. Cùng nhau điểm qua một số nét chính trong bộ phim Glass: Bộ ba quái vật năm 2019 nhé!"
+                },
+                {
+                    "id":3,
+                    "mainTitle":"A Dog Way Home (2019)",
+                    "subTitle":"Đường Về Nhà Của Cún Con",
+                    "image":"https://image.tmdb.org/t/p/w300/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h36m",
+                    "MIDB":"6.7",
+                    "description":"Trong một lần mải mê đuổi sóc, Bella đi lạc rất xa khỏi căn nhà của mình. Cô nàng được một gia đình tìm thấy và đưa về nơi ở mới. Nhưng những thứ lạ lẫm kia chẳng hề có hình bóng quen thuộc của Lucas. Sợ rằng cậu chủ đang đợi chờ mình trong cô đơn, nàng cún bất chấp mọi rủi ro để tự tìm đường về nhà và chuẩn bị đối mặt với bao gian khó trước mắt."
+                },
+                {
+                    "id":4,
+                    "mainTitle":"Black Mirror Bandersnatch (2018)",
+                    "subTitle":"Gương Đen Kì Ảo",
+                    "image":"https://image.tmdb.org/t/p/w300/tmsddF6G7vIbJ2Lg6DZDVbnhBxs.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h30m",
+                    "MIDB":"7.0",
+                    "description":"Gương Đen: Kỳ Ảo, Black Mirror: Bandersnatch năm 1984. Stefan đang phát triển một trò chơi trên máy tính dựa trên cuốn sách 'Bandersnatch', một cuốn tiểu thuyết mà bạn có thể đưa ra lựa chọn và điều này quyết định câu chuyện. Anh ta có cơ hội đưa trò chơi của mình đến Tuckersoft, một công ty phần mềm và nhờ họ phát hành nó. Tuy nhiên, anh ta càng làm việc với trò chơi, cuộc sống của anh ta càng mô phỏng trò chơi, với những lựa chọn được đưa ra ngoài tầm kiểm soát của anh ta. Stefan dường như sắp phát điên."
+                }
+            ]
+
+        },
+        {
+            "id":2,
+            "mainTitle":"Bumblebee 2018",
+            "subTitle":"Robot Đại Chiến:Bumblebee",
+            "degree":3,
+            "level":"intermedite",
+            "time":"01h54m",
+            "MIDB":"6.9",
+            "description":"Khi Autobot và Decepticon chiến đấu để kiểm soát tài nguyên của Trái Đất, chàng trai trẻ Sam Witwicky không hề hay biết mình là hy vọng sống còn duy nhất của nhân loại.",
+            "image":"https://image.tmdb.org/t/p/w500//wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg",
+            "MovieChildren":[
+                {
+                    "id":4,
+                    "mainTitle":"The Mule (2018)",
+                    "subTitle":"Già Gân",
+                    "image":"https://image.tmdb.org/t/p/w300/bTeRgkAavyw1eCtSkaww18wLYNP.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h57m",
+                    "MIDB":"7.1",
+                    "description":"After a trip to Thailand, a first-time drug mule finds himself in police custody, with his stomach crammed with narcotics. Now, he has to endure seven sphincter-clenching days to convince them of his innocence. Will nature take its course?"
+                },
+                {
+                    "id":5,
+                    "mainTitle":"Brid Box (2018)",
+                    "subTitle":"Lồng chim",
+                    "image":"https://image.tmdb.org/t/p/w300/z6m7s4w4Erxnr5k2jc1TZR1AMva.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"02h04m",
+                    "MIDB":"6.7",
+                    "description":"Lồng Chim - Bird Box chuyện gì sẽ xảy ra nếu cả thế giới rơi vào nguy kịch trước sự tấn công bởi những con quái vật mà chưa một ai từng thấy hình dạng? Sẽ đáng sợ ra sao nếu chúng sơ sẩy một tích tắc nhìn vào chúng, và rồi chúng ta phát điên lên, tự huỷ sự sống của bản thân? Với cách duy nhất để sống sót là bịt mắt và trốn chạy, Malorie phải làm mọi cách để giữ hai con an toàn giữa cuộc chiến trong bóng tối. Không chỉ phải chiến đấu với những con quái vật vô hình, cô còn phải đấu tranh với bản thân khi chỉ cần một lần hé nhìn là có thể mất đi ánh sáng mãi mãi."
+                },
+                {
+                    "id":6,
+                    "mainTitle":"Spider-Man: Intro the Spider Verse (2018)",
+                    "subTitle":"Người Nhiện Vũ trụ mới",
+                    "image":"https://image.tmdb.org/t/p/w300/7d6EY00g1c39SGZOoCJ5Py9nNth.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h57m",
+                    "MIDB":"8.5",
+                    "description":"Phim Người Nhện: Vũ Trụ Mới - Spider-Man: Into the Spider-Verse 2018: Xoay quanh câu chuyện của cậu thanh niên da màu Miles Morales, có hộ khẩu thường trú ở Brooklyn, Mỹ - một trong những Spider-Man trẻ tuổi nhưng tiềm năng nhất trong Spider-Verse. Miles không hề biết rằng mình có siêu năng lực của Spider-Man mà tình cờ phát hiện ra nó. Sau đó được dẫn dắt bởi một Spider-Man trông giống hệt một gã nát rượu nhưng vô cùng tốt bụng và nhiệt tình."
+                },
+                {
+                    "id":7,
+                    "mainTitle":"Asher",
+                    "subTitle":"Siêu Sát Thủ",
+                    "image":"https://image.tmdb.org/t/p/w300/rNg9Vfek4rR41ka7B6YlQDihFvF.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h57m",
+                    "MIDB":"5.4",
+                    "description":"Một cựu chiến binh già về hưu làm sát thủ giết thuê với phong cách cổ điển. Trong một lần hành nghề tình cờ quen được một phụ nữ đơn chiếc đang nuôi một bà mẹ mất trí. Tình yêu nảy nở nhưng đồng thời cả 2 cũng rơi vào cuộc chiến tranh giành thị phần của các băng nhóm giết thuê."
+                }
+            ]
+
+        },
+        {
+            "id":3,
+            "mainTitle":"Aquaman (2018)",
+            "subTitle":"Aquaman: Đế Vương ATLANTS",
+            "degree":3,
+            "level":"intermedite",
+            "time":"02h24m",
+            "MIDB":"7.2",
+            "description":"Aquaman: Đế vương Atlantis câu chuyện của Đế Vương Atlantis tiếp nối sau những sự kiện xảy ra trong Justice League – Liên Minh Công Lý. Theo đó, Arthur Curry/Aquaman bắt đầu trị vì vương quốc dưới biển sâu Atlantics...",
+            "image":"https://image.tmdb.org/t/p/w500//9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+            "MovieChildren":[
+                {
+                    "id":8,
+                    "mainTitle":"Mowgli:Legend Of the jungle (2018)",
+                    "subTitle":"Huyền Thoại Rừng Xanh",
+                    "image":"https://image.tmdb.org/t/p/w300/remgeE1ak6CqU38EBLkFFFiQ5aQ.jpg",
+                    "degree":2,
+                    "level":"High Beginner",
+                    "time":"01h45m",
+                    "MIDB":"6.7",
+                    "description":"Mowgli: Legend of the Jungle được xây dựng dựa trên tác phẩm văn học kinh điển của tác giả Rudyard Kipling, The Jungle Book kể lại cuộc phiêu lưu của Mowgli - cậu bé mồ côi được đàn sói nuôi dưỡng trong một khu rừng già Ấn Độ. Nội dung của câu chuyện đã mang lại cho khán giả nhiều cảm xúc về cuộc đời của một cậu bé đáng thương phải đứng giữa cuộc chiến của hai thế giới muôn thú và loài người."
+                },
+                {
+                    "id":9,
+                    "mainTitle":"The Christmas Chronicles (2018)",
+                    "subTitle":"Biên niên sử giáng sinh",
+                    "image":"https://image.tmdb.org/t/p/w300/brENMyyhk13WLzKHBK20rBKx0u7.jpg",
+                    "degree":2,
+                    "level":"High Beginner",
+                    "time":"02h44m",
+                    "MIDB":"7.1",
+                    "description":"Hai anh em Teddy và Kate luôn tin vào ông già Noel và đang chuẩn bị cho Giáng Sinh đầu tiên không có cha bên cạnh. Người cha đã mất do cứu 3 mẹ con trong vụ hỏa hoạn. Cả hai vô tình phát hiện ra rằng ông già Noel là có thật nhưng lại lỡ làm hỏng xe trượt tuyết của ông."
+                },
+                {
+                    "id":10,
+                    "mainTitle":"Instant Family (2018)",
+                    "subTitle":"Con Nuôi Bất Đắc Dĩ",
+                    "image":"https://image.tmdb.org/t/p/w300/lwICpzZudw8BZ0bODaHgRWCdioB.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"01h58m",
+                    "MIDB":"7.4",
+                    "description":"Câu chuyện hài hước về cặp vợ chồng Pete và Ellie khi quyết định trở thành ba mẹ nuôi của 3 đứa trẻ với 3 độ tuổi và tính cách khác nhau: Cô gái tuổi teen Lizzy, cậu bé ngốc nghếch Juan và cô út luôn la hét Lita."
+                },
+                {
+                    "id":11,
+                    "mainTitle":"The Ballad Of Buster Scruggs",
+                    "subTitle":"Biên Niên Sử Miền Tây",
+                    "image":"https://image.tmdb.org/t/p/w300/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+                    "degree":3,
+                    "level":"intermedite",
+                    "time":"02h12m",
+                    "MIDB":"7.4",
+                    "description":"Sáu câu chuyện về cuộc sống và bạo lực ở Miền Tây xa xưa, một tay súng thích đàn hát, một tên cướp ngân hàng, một người làm nghề du lịch, một người buôn bán lớn tuổi, một toa tàu và một cặp thợ săn tiền thưởng gian ác."
+                }
+            ]
+
+        }
+       
+
+    ],
+
+    "Feature":[
+        {
+            "id":1,
+            "mainTitle":"Avengers Infinity War(2018)",
+            "subTitle":"Biệt đội siêu anh hùng 3",
+            "degree":1,
+            "level":"beginner",
+            "time":"02h29m",
+            "MIDB":"7.1",
+            "description":"Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn.",
+            "image":"https://image.tmdb.org/t/p/w185//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//bOGkgRGdhrBYJSLpXaxhXVstddV.jpg"
+
+        },
+        {
+            "id":2,
+            "mainTitle":"Deadpood 2 (2018)",
+            "subTitle":"Quái nhân Deadpood 2",
+            "degree":2,
+            "level":"High beginner",
+            "time":"02h01m",
+            "MIDB":"8.1",
+            "description":"Nam diễn viên Ryan Reynolds đã tung ra đoạn video nhá hàng phim Deadpool 2 cực kỳ vui nhộn mang tên No Good Deed. Anh khả ái đã trở lại và ăn hại hơn gấp bội phần, làm màu với chém gió thì nhiều mà hành động chẳng được bao nhiêu... -- Deadpool là nhân vật phản anh hùng (anti-hero) cực kỳ được yêu thích trong vũ trụ Marvel. Bộ phim solo của anh khả ái dọn dẹp ngang trái vào năm 2016 đã thành công rực rỡ với doanh thu lên đến 783 triệu USD..",
+            "image":"https://image.tmdb.org/t/p/w185//to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg"
+
+        },
+        {
+            "id":3,
+            "mainTitle":"Coco (2017)",
+            "subTitle":"Coco: Hội ngộ diệu kì (2017)",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h45m",
+            "MIDB":"8.4",
+            "description":"Bộ phim này kể về hành trình của Miguel, một cậu bé say mê những giai điệu nhưng lại sinh trưởng trong một gia đình cấm đoán sự xuất hiện của âm nhạc. Miguel luôn nung nấu giấc mơ trở thành một nhạc sĩ nổi tiếng giống như thần tượng Ernesto de la Cruz. Tuy nhiên, truyền thống ngang trái của gia đình đã khiến cậu không thể chứng minh tài năng của mình. -- Rũ bỏ thực tế phũ phàng, Miguel tìm thấy chính mình ở Vùng Đất Linh Hồn tuyệt đẹp và đầy sắc màu sau một chuỗi sự kiện huyền bí. Trong hành trình khám phá vùng đất mới, Miguel gặp gỡ “chuyên gia xảo quyệt” Hector. Cả hai cùng tạo nên chuyến phiêu lưu kỳ diệu để lật mở những bí mật chưa được tiết lộ về lịch sử của gia đình Miguel. ",
+            "image":"https://image.tmdb.org/t/p/w185//eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//askg3SMvhqEl4OL52YuvdtY40Yb.jpg"
+
+        },
+        {
+            "id":4,
+            "mainTitle":"Thor: Ragnarok (2017)",
+            "subTitle":"Thần sấm 3: thời khắc tận thế (2017)",
+            "degree":3,
+            "level":"intermediate",
+            "time":"02h10m",
+            "MIDB":"8.4",
+            "description":"Ragnarok ám chỉ “tận cùng của vũ trụ”, đồng nghĩa với trận chiến sống còn của chín cõi (Nine Realms). Sau khi Loki Loki soán ngôi cha Odin, vị thần tinh quái này tiếp tục mở đường nhiễu loạn tiến từ cầu Bifrost vào trong Asgard. -- Ở bên kia vũ trụ, Thor (Chris Hemsworth) phải bước vào một cuộc chiến đầy khốc liệt với đối thủ mà anh sẽ gặp là một đồng đội cũ đến từ biệt đội Avenger – Hulk. Cuộc tìm kiếm sự sống còn của Thor khiến anh phải chạy đua với thời gian để ngăn chặn Hela (Cate Blanchett) tiêu diệt cả thế giới anh đang sống cùng nền văn minh Asgard.",
+            "image":"https://image.tmdb.org/t/p/w185//rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg"
+
+        },
+        {
+            "id":5,
+            "mainTitle":"A-X-L (2018)",
+            "subTitle":"Chú chó robot",
+            "degree":4,
+            "level":"High intermediate",
+            "time":"01h38m",
+            "MIDB":"5.1",
+            "description":"Trong một lần đi chơi, Miles - cậu thanh niên có niềm đam mê với máy móc và tốc độ phát hiện ra một chú chó máy quân sự được tạo ra với chức năng tấn công những vị trí mà phương tiện cơ giới không thể đến mang tên A-X-L. -- Sau khi tìm hiểu, Miles vô tình kích hoạt công nghệ nhận diện đồng minh với A-X-L. Từ đây, cậu cùng với Sara và chú robot bắt đầu dấn thân vào những cuộc phiêu lưu đầy mạo hiểm mà kẻ thù là viện Robot do Chính phủ thành lập. ",
+            "image":"https://image.tmdb.org/t/p/w185//9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//l1nYo0yzKjf84atnBDbx0do16vQ.jpg"
+
+        },
+        {
+            "id":6,
+            "mainTitle":"Incredibles 2 (2018)",
+            "subTitle":"Gia đình siêu nhân 2",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h58m",
+            "MIDB":"8.1",
+            "description":"Gia Đình Siêu Nhân 2 đánh dấu những chuyến phiêu lưu anh hùng đầy hấp dẫn với sự đổi vai đầy táo bạo. Lần này, mẹ dẻo Helen (Elastigirl) sẽ đi thực chiến giải cứu thế giới trong khi bố khỏe Bob (Mr. Incredible) lùi về hậu phương trông nom những đứa con siêu nhân láu lỉnh gồm: con gái Violet ( siêu năng lực tàng hình và tạo ra từ trường làm chắn bảo vệ), con trai Dash (chạy siêu nhanh) và cậu út Jack-Jack với sức mạnh chưa được khám phá. Một ác nhân bí ẩn xuất hiện với một âm mưu đáng sợ khiến cho gia đình siêu nhân phải “tái xuất giang hồ”. Liệu gia đình siêu nhân sẽ vượt qua khó khăn này như thế nào? ",
+            "image":"https://image.tmdb.org/t/p/w185//x1txcDXkcM65gl7w20PwYSxAYah.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//mabuNsGJgRuCTuGqjFkWe1xdu19.jpg"
+
+        },
+        {
+            "id":7,
+            "mainTitle":"Ice Age (2002)",
+            "subTitle":"Kỉ Băng Hà 1",
+            "degree":2,
+            "level":"High beginner",
+            "time":"02h21m",
+            "MIDB":"8.1",
+            "description":"Giữa thời điểm sắp chuyển sang chuyển sang kỷ băng giá, mọi con vật đều đi kiếm nơi ấm áp để sống. Manny, Sid, Diego phải theo bước chân con người để đưa 1 cậu bé bị lạc trở về với gia đình...nhưng Diego lại có một âm mưu khác để bắt chú bé đi vì Diego là 1 chú cọp nhận nhiệm vụ bắt sống đứa bé về cho Soto... Nhưng suốt quá trình trải qua những khó khăn cùng nhau 3 người bạn đã có được những tình cảm thật thân thiết để rồi cùng nhau chống lại đàn cọp gian ác.",
+            "image":"https://image.tmdb.org/t/p/w185//gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//mCVQ2cZmGkAHG2Q3fDZTQA1YzeI.jpg"
+
+        },
+        {
+            "id":8,
+            "mainTitle":"The Nun",
+            "subTitle":"Ác quỷ ma sơ",
+            "degree":3,
+            "level":"intermedite",
+            "time":"02h36m",
+            "MIDB":"5.6",
+            "description":"The Nun (Ác Quỷ Ma Sơ) Lấy bối cảnh một tu viện thuộc Romania năm 1952, trước những sự kiện diễn ra trong The Conjuring và Annabelle. Sau cái chết kỳ dị và bí ẩn của một nữ tu trẻ ở tu viện, một linh mục với quá khứ ám ảnh và một mục sư chưa thực hiện lời tuyên thệ cuối cùng được Vatican cử đến để điều tra sự việc. -- Họ đã cùng nhau khám phá ra một sự thật khủng khiếp. Không chỉ gặp nguy hiểm đe dọa mạng sống, cả hai còn phải đối mặt với sự đe dọa về đức tin lẫn linh hồn trước một thế lực tàn độc đội lốt một nữ tu ma quỷ",
+            "image":"https://image.tmdb.org/t/p/w185//sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//fgsHxz21B27hOOqQBiw9L6yWcM7.jpg"
+
+        },
+        {
+            "id":9,
+            "mainTitle":"The Karate Kid",
+            "subTitle":"Cậu bé Karate Kid(2010)",
+            "degree":4,
+            "level":"High intermedite",
+            "time":"02h20m",
+            "MIDB":"6.2",
+            "description":"Cậu bé Dre Parker, 12 tuổi theo mẹ di chuyển từ thành phố Detroit, Mỹ sang Bắc Kinh, Trung Quốc. Tại đây, ngỡ ngàng với cuộc sống mới, khác biệt về ngôn ngữ, Dre vô tình gây sự đánh nhau với những học sinh giỏi kungfu Trung Quốc cùng trường. Để lấy lại danh dự và cũng để chinh phục cô bạn gái Mỹ Anh xinh đẹp, Dre quyết tâm đi học võ. Và vị sư phụ chính là ông thợ điện bí ẩn sống cùng khu phố.",
+            "image":"https://image.tmdb.org/t/p/w185//uyvGIduQXz1XovDeUuykmOJFqzw.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//38hXBwDzfhqUXzEYvSrz5luclLO.jpg"
+
+        },
+        {
+            "id":10,
+            "mainTitle":"ELF (2013)",
+            "subTitle":"Chàng tiên đáng yêu",
+            "degree":4,
+            "level":"High intermedite",
+            "time":"01h37m",
+            "MIDB":"6.9",
+            "description":"Elf là bộ phim kể về đứa con bị bỏ rơi và được ông già Noel nhặt về nuôi. Khi lớn lên cậu được ông già Noel tiết lộ thân thế thật sự, điều này dẫn đến việc cậu quyết định đi tìm người cha ruột của mình. Khi gặp lại cha ruột, cậu không những không được cha nhìn nhận mà còn bị ruồng bỏ. Mất nhiều thời gian cậu mới chinh phục được người cha và sau đó là bà mẹ kế cùng đứa em cùng cha khác mẹ.",
+            "image":"https://image.tmdb.org/t/p/w185//vLPcbYn4CEliFXf58y6F9rL15dD.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//lmjjlXwNeRqmKBuA0a6jqOyTnZG.jpg"
+
+        }
+    ],
+    "Level-1":[
+        {
+            "id":1,
+            "mainTitle":"Hotel Transylvania(2012)",
+            "subTitle":"khách sạn huyền bí",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h31m",
+            "MIDB":"7.1",
+            "description":"Sau khi chứng kiến cái chết của vợ mình, Bá tước Dracula đã đưa đứa con gái bé bỏng Mavis vào rừng sâu sống nhằm mục đích tránh xa thế giới của loài người, tại nơi đây ông cũng xây dựng một khách sạn to lớn mang tên Khách sạn Transylvania chỉ dành cho ma quỷ và quái vật. Tại đây ông đã sống với con gái mình và không bao giờ cho cô bé ra ngoài vì còn ám ảnh bởi cái chết của vợ mình...",
+            "image":"https://image.tmdb.org/t/p/w185//c8xgxYJHmIHHREFxlNqUD23kvvc.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//sETTal2HPPkUC3lWc27HL1AFu9C.jpg"
+
+        },
+        {
+            "id":2,
+            "mainTitle":"Frozen (2013)",
+            "subTitle":"Nữ hoàng băng giá",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h42m",
+            "MIDB":"7.5",
+            "description":"rozen là một thương hiệu truyền thông của Disney được bắt đầu bởi bộ phim hoạt hình Mỹ năm 2013, Frozen, được đạo diễn bởi Chris Buck và Jennifer Lee từ một kịch bản của Lee và Peter Del Vecho sản xuất, với các bài hát của Robert Lopez và Kristen Anderson-Lopez. Giám đốc sáng tạo của Walt Disney Animation Studios John Lasseter từng là nhà sản xuất điều hành của bộ phim. Bộ phim gốc được lấy cảm hứng từ câu chuyện cổ tích của Hans Christian Andersen Nữ hoàng tuyết",
+            "image":"https://image.tmdb.org/t/p/w185//yald8Lsb4uCRvjIH3spzR84Kdwf.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//fydUcbkqLyESCFa9U5XKqi8dIVj.jpg"
+
+        },
+        {
+            "id":3,
+            "mainTitle":"UP (2009)",
+            "subTitle":"Vút bay",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h36m",
+            "MIDB":"8.3",
+            "description":"Up là câu chuyện của ông lão Carl, sống một mình trong ngôi nhà gỗ sau khi vợ ông (bà Ellie) qua đời. Nhân vật chính còn lại là cậu bé tình nguyện viên Russell đang tìm kiếm một công việc giúp đỡ người cao tuổi để nhận được huy hiệu giúp đỡ người cao tuổi nhằm hoàn thành bộ sưu tập huy hiệu của mình. Ông lão Carl thấy cậu quá phiền phức nên đã nói dối để cậu đi tìm con chìm dẽ giun trong vườn để không làm phiến ông nữa.",
+            "image":"https://image.tmdb.org/t/p/w185//6MNW96BHtwwWK74d0tLyxVZBkTs.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//h8C7KZwCJO5DN7jPifc7AoIjx7k.jpg"
+
+        },
+        {
+            "id":4,
+            "mainTitle":"KungFu Panda(2009)",
+            "subTitle":"KungFu gấu trúc",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h30m",
+            "MIDB":"7.6",
+            "description":"Po là một chú gấu trúc to béo, ham ăn và mê môn võ kungfu. Trong một ngày hội, lời tiên tri từ xưa đã giúp Po có thể thực hiện ước mơ của mình. Po được học với sư phụ Shifu và nhóm Ngũ Hùng. Nhưng vấn đề ở chỗ cậu chàng lại là kẻ lười biếng nhất thung lũng Thanh Bình. Và rồi mọi chuyện hoàn toàn thay đổi khi con báo tuyết gian ác Tai Lung trốn thoát khỏi tù. Hắn ráo riết lên kế hoạch tấn công thung lũng. Và người anh hùng được chọn để chiến đấu chống lại Tai Lung, không ai khác chính là Po béo. Một đội ngũ hùng hậu những bậc thầy kungfu được huy động để hướng dẫn Po những miếng võ cơ bản nhất… .",
+            "image":"https://image.tmdb.org/t/p/w185//wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//e2UzPgDwJW7eCqkKDhBP2Imh9cR.jpg"
+
+        },
+        {
+            "id":5,
+            "mainTitle":"Finding Nemo (2003)",
+            "subTitle":"Đi tìm Nemo",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h40m",
+            "MIDB":"8.1",
+            "description":"Finding Nemo được hãng Pixar Animation Studios sản xuất năm 2003. Tác giả kịch bản kiêm đạo diễn của bộ phim là Andrew Staton. Phim có sự tham gia lồng tiếng của Albert Brooks vai chú cá Marlin và Ellen DeGeneres vai cô cá Dory. Finding Nemo là một bộ phim hoạt hình hài phiêu lưu được làm trên máy tính hay còn gọi là kỹ thuật CGI. Bộ phim kể về hành trình tới cảng Sydney tìm lại con trai Nemo của chú cá hề tên Marlin và cô bạn đồng hành Dory. Vốn dĩ là một ông bố có xu hướng bảo vệ con thái quá, nhưng sau khi Nemo bị mắc kẹt ở rặng san hô Great Barrier và sau đó trôi dạt tới Sydney, trên đường đi tìm lại con trai, Marlin đã học được cách chấp nhận rủi ro và để Nemo tự chăm sóc bản thân cậu. -- Trong đoạn này, chú rùa kể cho đàn cá chuyện chú cá Marlin đuổi theo Nemo sau khi cậu nhóc bị mắc kẹt trong lưới của những người thợ lặn và sau đó: -- a) Marlin đã tới gặp ba ông bạn cá mập khác nhờ sự giúp đỡ -- b) Marlin đã tình cờ gặp phải ba con cá mập hung dữ -- c) Marlin đã chui vào bụng một con cá mập hung dữ --",
+            "image":"https://image.tmdb.org/t/p/w185//xVNSgrsvpcAHPnyKf2phYxyppNZ.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//6AASwDhTzI0V0JWZS8hVu6b9086.jpg"
+
+        },
+        {
+            "id":6,
+            "mainTitle":"Monsters,Inc.(2001)",
+            "subTitle":"Lò đào tạo quái vật",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h32m",
+            "MIDB":"8.1",
+            "description":"Monsters, Inc. là bộ phim hoạt hình nổi tiếng của Walt Disney. Bối cảnh phim được đặt tại thế giới quái vật Monstropolis, nơi mà nguồn năng lượng sinh hoạt được đến từ tiếng thét kinh sợ của trẻ em. Chính vì vậy, có một công ty mang tên Monsters, Inc chuyên cử những nhân viên là quái vật với đủ hình hài tới phòng ngủ của trẻ em qua những cánh cửa thần kỳ để dọa chúng. Tại đó, chàng Sulley lông lá là quái vật hữu dụng nhất, khi anh là nhân viên khiến trẻ em sợ hãi nhất. Nhưng một ngày nọ Sulley không vô tình dẫn một cô bé tới thế giới quái vật. Theo đồn đại của các quái vật thì trẻ em là... thứ độc hại, có khả năng đe dọa tới chúng. Chính vì vậy, Sulley và Mike đã phải trải qua biết bao khó khăn để che giấu và đưa cô bé Boo trở lại thế giới loài người. Monsters, Inc là tác phẩm “không có tuổi” mà cả người lớn lẫn trẻ em đều có thể xem một cách thích thú. Ẩn chứa đằng sau những thước phim tuyệt vời đó còn là những bài học sâu sắc. --",
+            "image":"https://image.tmdb.org/t/p/w185//8hMd1BIcCwISqxOdo1G4UXCEOI.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//k7luxfi58XsBB6kgqWxYRpfo7aj.jpg"
+
+        },
+        {
+            "id":7,
+            "mainTitle":"WALL.E (2008)",
+            "subTitle":"Robot biết yêu",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h38m",
+            "MIDB":"8.4",
+            "description":"Trong tương lai, trái đất bị bao phủ bởi rác thải, loài người buộc phải rời khỏi trái đất và thay thế vào đó là hàng triệu con rô-bốt nhỏ bé với nhiệm vụ thu dọn rác thải cho đến khi trái đất có thể ở được. Nhưng chương trình đó thất bại chỉ trừ một chú robot nhỏ bé vẫn chăm chỉ làm công việc của mình, đó chính là WALL-E – robot duy nhất bị bỏ lại trên trái đất bắt đầu có một lỗi nhỏ trong hệ thống: phát triển tính cách của con người. WALL-E lãng mạn mơ ước rằng một ngày cậu sẽ kết giao được với ai đó, và cuộc đời này hẳn còn nhiều điều thú vị hơn công việc buồn tẻ mà cậu làm hàng ngày. Thế rồi EVE xuất hiện. EVE là cô người máy thăm dò có kiểu dáng đẹp, nhanh nhẹn, có thể bay và được trang bị súng laser. EVE thuộc hạm đội người máy được Phi trưởng của tàu Axiom cử xuống trái đất để làm nhiệm vụ kiểm tra bí mật. Theo đuổi EVE, WALL-E không thể ngờ rằng cậu sẽ vượt qua dải ngân hà và bước vào một chuyến phiêu lưu kỳ thú vượt xa sự tưởng tượng của chính mình. --",
+            "image":"https://image.tmdb.org/t/p/w185//3g8vyePqVatTaUSnrNnrrwguhxM.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//ai2FicMUxLCurVkjtYdSvVDWRmS.jpg"
+
+        },
+        {
+            "id":8,
+            "mainTitle":"Cloudy with a chance of Meaballs (2008)",
+            "subTitle":"Cơn mưa thịt viên 2",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h35m",
+            "MIDB":"6.4",
+            "description":"Trong tương lai, trái đất bị bao phủ bởi rác thải, loài người buộc phải rời khỏi trái đất và thay thế vào đó là hàng triệu con rô-bốt nhỏ bé với nhiệm vụ thu dọn rác thải cho đến khi trái đất có thể ở được. Nhưng chương trình đó thất bại chỉ trừ một chú robot nhỏ bé vẫn chăm chỉ làm công việc của mình, đó chính là WALL-E – robot duy nhất bị bỏ lại trên trái đất bắt đầu có một lỗi nhỏ trong hệ thống: phát triển tính cách của con người. WALL-E lãng mạn mơ ước rằng một ngày cậu sẽ kết giao được với ai đó, và cuộc đời này hẳn còn nhiều điều thú vị hơn công việc buồn tẻ mà cậu làm hàng ngày. Thế rồi EVE xuất hiện. EVE là cô người máy thăm dò có kiểu dáng đẹp, nhanh nhẹn, có thể bay và được trang bị súng laser. EVE thuộc hạm đội người máy được Phi trưởng của tàu Axiom cử xuống trái đất để làm nhiệm vụ kiểm tra bí mật. Theo đuổi EVE, WALL-E không thể ngờ rằng cậu sẽ vượt qua dải ngân hà và bước vào một chuyến phiêu lưu kỳ thú vượt xa sự tưởng tượng của chính mình. --",
+            "image":"https://image.tmdb.org/t/p/w185//akGcl3CO4gsd3uywNmQQq1jJiwQ.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//i9LjD038ZRnEkWFSFidhNKyARIN.jpg"
+
+        },
+        {
+            "id":9,
+            "mainTitle":"KungFu Panda 2 (2011)",
+            "subTitle":"KungFu gấu trúc",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h31m",
+            "MIDB":"7.3",
+            "description":"Cuộc sống của Po hiện tại đẹp như một giấc mơ: trở thành Thần Long Đại Hiệp, bảo vệ Thung Lũng Yên Bình cùng với những người bạn và các sư huynh và sư tỷ kung fu đồng môn là Ngũ Đại Hào Kiệt. Thế nhưng, cuộc sống mới của Po bỗng dưng bị đe dọa với sự xuất hiện của một thế lực đen tối khủng khiếp. Hắn sử dụng một vũ khí bí mật và không có gì ngăn chặn nổi, nhằm xâm chiếm Trung Hoa và hủy diệt hoàn toàn môn võ kung fu. Po và The Furious Five phải có một cuộc hành trình băng qua lục địa Trung Hoa nhằm tiêu diệt thế lực xấu xa đó. Nhưng làm thế nào Po có thể chặn đứng một thứ vũ khí mà nó có thể chặn đứng tuyệt đỉnh kung fu? ",
+            "image":"https://image.tmdb.org/t/p/w185//mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//iKJNE3QV0wEc9VMFuHYSZVhmSN9.jpg"
+
+        },
+        {
+            "id":10,
+            "mainTitle":"Coraline (2009)",
+            "subTitle":"Cô bé Coraline",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h31m",
+            "MIDB":"7.3",
+            "description":"Cuộc sống của Po hiện tại đẹp như một giấc mơ: trở thành Thần Long Đại Hiệp, bảo vệ Thung Lũng Yên Bình cùng với những người bạn và các sư huynh và sư tỷ kung fu đồng môn là Ngũ Đại Hào Kiệt. Thế nhưng, cuộc sống mới của Po bỗng dưng bị đe dọa với sự xuất hiện của một thế lực đen tối khủng khiếp. Hắn sử dụng một vũ khí bí mật và không có gì ngăn chặn nổi, nhằm xâm chiếm Trung Hoa và hủy diệt hoàn toàn môn võ kung fu. Po và The Furious Five phải có một cuộc hành trình băng qua lục địa Trung Hoa nhằm tiêu diệt thế lực xấu xa đó. Nhưng làm thế nào Po có thể chặn đứng một thứ vũ khí mà nó có thể chặn đứng tuyệt đỉnh kung fu? ",
+            "image":"https://image.tmdb.org/t/p/w185//mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//rRpAZOPY3XxMJY65AJ396IWyjU4.jpg"
+
+        },
+        {
+            "id":11,
+            "mainTitle":"Rio 2",
+            "subTitle":"Vẹt đuôi dài 2",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h42m",
+            "MIDB":"6.3",
+            "description":"Trong Rio 2, người hâm mộ sẽ thấy Blue, Jewel và 3 đứa con của họ sống hạnh phúc trong thành phố kỳ diệu ở Brazil. Nhưng khi Jewel thấy rằng những đứa trẻ cần phải học cách sống như những chú chim thực thụ, cô quyết định cả gia đình sẽ chuyển tới Amazon.Trong khi cố gắng hòa nhập với những người láng giềng mới, Blue bất ngờ thiếu tự tin và vô cùng lo lắng tiếng gọi nơi hoang dã sẽ cướp mất Jewel và lũ trẻ.  ",
+            "image":"https://image.tmdb.org/t/p/w185//urFzh1shUnJCzc6eI7MqV4RsJWP.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg"
+
+        },
+        {
+            "id":12,
+            "mainTitle":"Rio ",
+            "subTitle":"Vẹt đuôi dài RIO",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h36m",
+            "MIDB":"6.9",
+            "description":"Blu là chú chim Macaw thuần hóa và chưa bao giờ tập bay, sống một cuộc sống thoải mái với người bạn thân Linda cùng cậu chủ. Blu và Linda đều tưởng Blu là cá thể duy nhất còn sót lại của loài Macaw, nhưng rồi họ phát hiện ra còn một “cô” Macaw cái tại Rio de Janeiro, cả hai quyết định thực hiện của hành trình mạo hiểm để tìm Jewel, cô Macaw của Blu. Không may khi tới Rio, Blu và Jewel bị bắt cóc bởi một nhóm buôn lậu thú, với sự khôn ngoan của Jewel và sự giúp sức của các chú chim thành phố. Blu đã trốn thoát, cùng sự trợ giúp của những người bạn mới, chú chim Macaw sẽ tìm cách học bay, giải cứu người bạn Linda và dạy cho bọn buôn lậu một bài học. --",
+            "image":"https://image.tmdb.org/t/p/w185//9tnDknxUksiAho7Vx2FEfojzc1K.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//ukNTB96qPadujTRDagpN5EBHR5P.jpg"
+
+        },
+        {
+            "id":13,
+            "mainTitle":"Aladdin (1992)",
+            "subTitle":"Aladdin và cây đèn thần",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h30m",
+            "MIDB":"6.0",
+            "description":"Aladdin là bộ phim hoạt hình dựa theo câu chuyện trong Ngàn lẻ một đêm. Bộ phim kể về Aladdin, một thanh niên vô gia cư sống lang thang bên đường phố Agrabah. vô tình có được cây đèn thần kỳ diệu. Nhờ có vị thần đèn vui tính, Aladdin từ một kẻ mồ côi, lang thang đã có tất cả nhưng gì anh mơ ước như của cải và cô công chúa xinh đẹp. Nhưng một tên phù thủy gian ác đang âm mưu phá hoại cuộc sống của Aladdin bằng cách chiếm đoạt lại cây đèn thần này, và bắt công chúa người nah yêu đi. Aladdin sẽ phải làm gì đây?",
+            "image":"https://image.tmdb.org/t/p/w185//jMQdkZwXh8TLsJev8cT0pKeTwrj.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//5OeY4U2rzePxWq2rkqMajUx2gz7.jpg"
+
+        },
+        {
+            "id":14,
+            "mainTitle":"Madagascar 3:Europe's Most Wanted(2012)",
+            "subTitle":"Thần tượng Châu Âu",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h33m",
+            "MIDB":"6.9",
+            "description":"Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus. ",
+            "image":"https://image.tmdb.org/t/p/w185//ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//hfdds27YL5nTAhiOtjfNNxD3bJe.jpg"
+
+        },
+        {
+            "id":15,
+            "mainTitle":"The LEGO Ninja Movie (2017)",
+            "subTitle":"Bộ phim Lego",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h41m",
+            "MIDB":"6.0",
+            "description":"Phiên bản hoạt hình điện ảnh được quay với công nghệ 3D này sẽ theo chân Emmet – một nhân vật LEGO tí hon bình thường bất ngờ bị ngộ nhận là một trong những siêu nhân phi thường đang nắm giữ chìa khóa vận mệnh của cả thế giới. Emmet sẽ bị cuốn vào một đoàn người kỳ lạ trong một chuyến phiêu lưu huyền thoại nhằm ngăn chặn một tên độc tài xấu xa, chuyến đi dở khóc dở cười với vô vàn những tình huống bi hài ngoài dự liệu... Nhân vật Emmet sẽ được lồng tiếng bởi Chris Pratt (phim Moneyball) trong khi Will Ferrell (The Campaign) sẽ lồng tiếng cho kẻ địch đầu tiên - President Business – một kẻ lãnh đạo uyên bác nhưng có tính thù dai luôn có tham vọng thống trị thế giới. Trong khi đó, Liam Neeson (Taken) sẽ đảm nhận vai tên tay sai đắc lực của tên chủ tịch, với biệt danh Bad Cop, kẻ sẽ không từ thủ đoạn nào để bắt cho được Emmet. Ngoài ra, các bạn đồng hành của Emmet là sự góp mặt của các tên tuổi lừng danh như Morgan Freeman trong vai Vitruvius, một lão nhân bí ẩn; Elizabeth Banks (The Hunger Games) vai bà thím Lucy, người đã nhầm tưởng Emmet là đấng cứu thế và đưa anh vào chuyến phiêu lưu không tưởng này... ",
+            "image":"https://image.tmdb.org/t/p/w185//uJhKcWL2GfqIh0W17JBnzlER9oh.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//3DPuzZmkBD9vbMpLvQcrymYoDBk.jpg"
+
+        },
+        {
+            "id":16,
+            "mainTitle":"Rise of the Guardians",
+            "subTitle":"Sự trỗi dậy của các vị thần",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h37m",
+            "MIDB":"7.3",
+            "description":"Sự trỗi dậy của các Vệ thần là một bộ phim hoạt hình giả tưởng/phiêu lưu 3D dựa trên loạt sách The Guardians of Childhood của William Joyce và phim ngắn The Man in the Moon của Joyce và Reel FX ",
+            "image":"https://image.tmdb.org/t/p/w185//kUBkmlWriPbNMijL2m3LtmPYPTb.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//46IGtYNjpIvQYRIQlb2X493Wh8x.jpg"
+
+        },
+        {
+            "id":17,
+            "mainTitle":"Turbo (2013)",
+            "subTitle":"Turbo",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h36m",
+            "MIDB":"6.5",
+            "description":"Xem phim Tay Đua Siêu Tốc HD Online thuyết minh, bộ phim xoay quanh câu chuyện về một chú ốc sên mơ ước trở thành tay đua kiệt xuất nhất thế giới, như chính thần tượng của cậu, tay đua 5 lần vô địch cúp Indianapolis, Guy Gagne. Niềm đam mê tốc độ khiến cho cậu trở nên xa lạ và tách biệt với cộng đồng ốc sên chậm chạp và thận trọng. Cũng chính sở thích kỳ lạ đó đã mang đến vô số ...",
+            "image":"https://image.tmdb.org/t/p/w185//lDARMqluCrWaFgybY9KHLY96L3n.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//d1wyBiFUtewwgXgF14eMkKNQfha.jpg"
+
+        },
+        {
+            "id":18,
+            "mainTitle":"Pitch Perfect (2012)",
+            "subTitle":"Những cô nàng cá tính",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h52m",
+            "MIDB":"7.2",
+            "description":"Bellas Barden là một trường đại học tất cả các cô gái-một nhóm hát cappella phát triển mạnh trên các bài hát pop nữ và vẻ ngoài hoàn hảo của họ. Sau một thảm họa thất bại tại trận chung kết năm ngoái, họ bị buộc phải tập hợp lại.Trong số các thành viên mới là sinh viên năm thứ nhất Beca, DJ, độc lập, tham vọng với -- không quan tâm đến đời sống đại học. Nhưng sau khi cô gặp Jesse, từ nhóm đối thủ của tất cả các nam cappella, Beca có một cái nhìn mới và đưa nó khi mình để giúp cho Bellas tìm thấy cái nhìn mới và âm thanh của họ và nhận được trở lại các đối thủ cạnh tranh..…",
+            "image":"https://image.tmdb.org/t/p/w185//gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//4z0IzDq6QWAjzvyXQRuNaQSReP5.jpg"
+
+        },
+        {
+            "id":19,
+            "mainTitle":"Corpse Bride (2005)",
+            "subTitle":"Cô dâu ma",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h17m",
+            "MIDB":"7.4",
+            "description":"Câu chuyện là bộ phim hoạt hình lãng mạn hài hước: Victor – con trai một gia đình bán cá sắp làm đám cưới với Victoria – con gái của một gia đình quý tộc danh giá đang đến hồi khánh kiệt. Sau buổi “thực tập” cử hành hôn lễ bất thành, Victor đã một mình đi ra cánh rừng hoang vắng để tập dợt vai trò chú rể. Sau khi đọc xong lời nguyền, anh chàng Victor đã vô tình đeo chiếc nhẫn cưới vào một cành cây có hình dạng ngón tay ở một bìa rừng và đọc to lời thề vợ chồng. Không ngờ cành cây đó lại chính là ngón tay của một xác cô gái bị mưu sát đã lâu. Và như một câu chuyện cười có thật, bây giờ xác chết đó nhờ lời thề của Victor mà trở thành người vợ chính thức của anh chàng. Liệu người và ma, trần thế và địa ngục, ở đâu Victor sẽ tìm được tình yêu?",
+            "image":"https://image.tmdb.org/t/p/w185//isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//65BCy7SKF2evT9aEPqTgXl9OVLL.jpg"
+
+        },
+        {
+            "id":20,
+            "mainTitle":"High School Musical 3: Senior Year (2008)",
+            "subTitle":"Hội Diễn âm nhạc",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h56m",
+            "MIDB":"4.6",
+            "description":"High School Musical 3 là phần cuối cùng của bộ phim âm nhạc đình đám nhất của Walt Disney. Trong phần này, Troy Bolton và Gabriella Montez sẽ phải đối mặt với cảnh chia xa bởi mỗi người có một con đường riêng để theo đuổi sau khi tốt nghiệp trung học. Để đánh dấu sự kiện này, Troy, Gabriella và đội Mèo Hoang gồm Sharpay Evans, Ryan Evans, Chad Danforth, Taylor McKessie sẽ chuẩn bị một festival âm nhạc đặc biệt, nơi họ bày tỏ những niềm hi vọng, mơ ước và băn khoăn trước tương lai của mình... --",
+            "image":"https://image.tmdb.org/t/p/w185//aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//oJqrhEGdNx1vT665vci9zVgO3Kj.jpg"
+
+        },
+        {
+            "id":21,
+            "mainTitle":"Mickey,Donald,Goofy: The Three Musketeers (2004)",
+            "subTitle":"3 Chàng  Lính Ngự Lâm Quân",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h56m",
+            "MIDB":"4.6",
+            "description":"Mickey, Donald and Goofy là 3 chàng lính ngự lâm Pháp. 3 cậu bạn thân thiêt Mickey, Donald and Goofy là những người lao công nhỏ, nuôi nấng mơ ước lớn lao trở thành lính ngự lâm. Trưởng đội lính ngự lâm - Peg-Leg Pete chỉ ra những lý do họ không thể làm được điều đó. -- Donald thì nhát cáy, Mickey thì nhỏ con, Goofy thì không có gì nổi trội. Nhưng mọi thứ bắt đầu thay đổi khi công chú Minnie cần một số Ngự Lâm Quân bảo vệ khi Pete thuê một số sát thủ ám hại công chúa để giành ngôi vua. Biết rằng các ngự lâm quân thật sự được huấn luyện rất tốt, Pete đã thuê Mickey, Donald, and Goofy trở thành Ngự Lâm Quân và bảo vệ cho Minnies... ",
+            "image":"https://image.tmdb.org/t/p/w185//aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//zsTH3hRAnPBpI5LrOn5Y3vB2kQC.jpg"
+
+        },
+        {
+            "id":22,
+            "mainTitle":"High School Musical (2006)",
+            "subTitle":"High School musical phần 1",
+            "degree":1,
+            "level":"beginner",
+            "time":"01h38m",
+            "MIDB":"5.3",
+            "description":"High School Musical tựa việt Trường Học Âm Nhạc, đây là phần mở đầu cho serial phim ca nhạc đình đám của Walt Disney. Nhân vật chính của High School Musical là: Troy Bolton đội trưởng đội bóng rổ, chàng trai nổi tiếng nhất trường East High và Gabriella Montez thiên tài toán học. Tình cờ gặp nhau tại buổi tiệc cuối năm cả hai đã cùng song ca bài hát Start of Something New, họ trở thành bạn của nhau. Từ đây nhiều câu chuyện đã diễn ra xoay quanh ngôi trường East High và đôi bạn trẻ. Những bản nhạc sôi động của các cô cậu học trò tuổi teen trong High School Musical đã gợi lại không ít kỉ niệm cho người xem về một thời cắp sách tới trường, những yêu, gét, giận hờn của tuổi mới lớn đã được các diễn viên nhí thể hiên rất xuất sắc. Giống như những phim ca nhạc khác, High School Musical có kết cấu khá đơn giản nhưng âm nhạc thì đầy lôi cuốn. ",
+            "image":"https://image.tmdb.org/t/p/w185//lkcc7eC4qTbhE2DBnoVpGg2ZeM9.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//dQ7DzwsIlR0xEiy6AnThS0FIHHo.jpg"
+
+        },
+        {
+            "id":23,
+            "mainTitle":"jobs (2013)",
+            "subTitle":"Huyền Thoại Táo",
+            "degree":1,
+            "level":"beginner",
+            "time":"02h08m",
+            "MIDB":"5.9",
+            "description":"Cả thế giới đã phát sốt khi chiếc iPhone đầu tiên ra mắt. Thành công đó không thể không kể đến Steve Jobs. Bộ phim là câu chuyện tóm lược lại con đường trong vòng 30 năm để đi đến thành công của S. Jobs, nhà đồng sáng lập tập đoàn công nghệ Apple hàng đầu của Mỹ, đưa đến cho thế giới những sản phẩm đầy sáng tạo. --",
+            "image":"https://image.tmdb.org/t/p/w185//83kFS7HLhPKFsGF6xKrfmprNYWh.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//gtHFOy7eOavz6AyszY8Q6s721y2.jpg"
+
+        },
+        {
+            "id":24,
+            "mainTitle":"Khumba (2013)",
+            "subTitle":"chú ngựa Khumba",
+            "degree":1,
+            "level":"beginner",
+            "time":"02h25m",
+            "MIDB":"5.7",
+            "description":"Bị đuổi khỏi đàn vị sự khác biệt của mình, một chú ngựa vằn chỉ có nửa thân sọc dấn thân vào 1 nhiệm vụ táo bạo để tìm kiếm phần sọc còn lại của mình, nhưng chú đã học được 1 bài học về sự can đảm và cứu sống tất cả những con vật ở sa mạc Karoo. --",
+            "image":"https://image.tmdb.org/t/p/w185//7RXXQxM4ZlmoiqQD053k8GFyegR.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//81ZIjRvgr99Tsi7Kleu9XK93Dyg.jpg"
+
+        }
+    ],
+    "Level-2":[
+        {
+            "id":1,
+            "mainTitle":"Despicable Me (2010)",
+            "subTitle":"Kẻ cướp mặt trăng ",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h35m",
+            "MIDB":"7.7",
+            "description":"Bộ phim là câu chuyện của những kẻ đánh cắp mặt trăng mà kẻ đứng đầu là tên gian ác Gru. Được trang bị vũ khí hiện đại cùng đội quân tay sai đông đảo, Gru quyết tâm vượt mặt kẻ xấu xa Victor bằng cách đánh cắp mặt trăng. Tuy nhiên, sự xuất hiện của ba cô gái nhỏ mồ côi: Margo, Edith và Agnes đã khiến hắn phải xem xét lại kế hoạch của mình. -",
+            "image":"https://image.tmdb.org/t/p/w185//wqtH95Ri9Au2euC4p86lLoFCJQk.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//euCnMxNRlHNxA4f9BMnWbmxPOse.jpg"
+
+        },
+        {
+            "id":2,
+            "mainTitle":"sherlock Gnomes (2018)",
+            "subTitle":"thám tử siêu quạy",
+            "degree":2,
+            "level":"beginner",
+            "time":"01h26m",
+            "MIDB":"4.9",
+            "description":"Trở lại từ khu vườn nơi mà Gnomeo và Juliet sinh sống, những chú lùn lần này sẽ có cuộc hành trình mới đầy hứa hẹn tại thành phố London. Khi Gnomeo và Juliet lần đầu đặt chân đến thành phố này cùng bạn bè và gia đình, họ đã nhận ra rằng khu vườn mới của họ đang bước sang mùa xuân. Tuy nhiên, họ nhanh chóng phát hiện ra đã có một kẻ bắt cóc tất cả những thần lùn giữ cửa ở London. Khi đó Gnomeo và Juliet quay trở về nhà để tìm đến sự giúp đỡ của một người duy nhất có khả năng lần ra manh mối và thủ phạm cho vụ án này đó chính là...",
+            "image":"https://image.tmdb.org/t/p/w185//xHdf2wRgCSp9MrZRryikiZIH6jB.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//a8yYZd7vECN3myX8dJiXOlN2bgf.jpg"
+
+        },
+        {
+            "id":3,
+            "mainTitle":"Cinderella (2015)",
+            "subTitle":"Công chúa lọ lem",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h45m",
+            "MIDB":"6.9",
+            "description":"Dựa theo truyện cổ tích cùng tên của anh em nhà Grimm, Cinderella được Walt Disney cho ra mắt lần đầu trong phiên bản hoạt hình vào năm 1950. Chuyện phim kể về cô gái trẻ Ella sau cái chết đau buồn của mẹ đã vui vẻ đồng ý cho cha của mình là một Thương Lái đi bước nữa. Bất chấp sự đối xử tệ bạc của mẹ kế, Ella vẫn vui vẻ sống và tin yêu vào cuộc đời như lời dạy của mẹ trước lúc trước “hãy luôn dũng cảm và hòa nhã với mọi người",
+            "image":"https://image.tmdb.org/t/p/w185//iH4C837ZWm8IYqULL3PWyGKVtqY.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//mfPZRZUaHKGQdJYITmOR5Ws6fw7.jpg"
+
+        },
+        {
+            "id":4,
+            "mainTitle":"Peter Rabbit(2018)",
+            "subTitle":"Thỏ Peter",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h33m",
+            "MIDB":"6.6",
+            "description":"Được chuyển thể từ bộ truyện thiếu nhi kinh điển “The tale of Peter Rabbit” của nhà văn Beatrix Potter, phim kể về một chú thỏ cứng đầu cố gắng lẻn vào vườn rau của bác nông dân. Đây cũng là bộ phim hoạt hình chủ đề động vật thứ hai của Sony Animation sau Open Season.",
+            "image":"https://image.tmdb.org/t/p/w185//2yjSvEDuM3rLDng40erLsWkQRfn.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//e9dVo1OXZL6sWinc9uIS0Foo4QG.jpg"
+
+        },
+        {
+            "id":5,
+            "mainTitle":"The Litter Mermaid (2018)",
+            "subTitle":"Cổ tích nơi đại dương",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h38m",
+            "MIDB":"4.1",
+            "description":"Câu chuyện lấy bối cảnh một rạp xiếc tại Missisippi, tại đó có ông chủ đầy bí hiểm đang giam giữ một mỹ nhân ngư. Sự xuất hiện của Cam - anh chàng phóng viên điển trai cùng cô em họ đã thay đổi mọi chuyện. Liệu nàng tiên cá nhỏ có chịu mở lòng, và họ có vượt qua những thử thách trước mắt để được tự do?",
+            "image":"https://image.tmdb.org/t/p/w185//7Ax9O1wlFL0Cjl8YLwuXDGthovf.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//7UY85MIj5IBOGhzL2kNByn7mSBj.jpg"
+
+        },
+        {
+            "id":6,
+            "mainTitle":"How to Train Your Dragon 2 (2014)",
+            "subTitle":"Bí kíp luyện rồng",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h42m",
+            "MIDB":"8.7",
+            "description":"Bộ phim lấy bối cảnh là một thế giới thần thoại của người Viking và loài rồng. Câu chuyện xoay quanh cậu bé Hiccup, sống tại đảo Berk. Khi Hiccup được tham gia vào khóa huấn luyện rồng với những cậu bé cùng trang lứa, cậu coi đây là cơ hội để chứng minh rằng mình đã trưởng thành và là một chiến binh thật sự. Cậu đã giải thoát và kết bạn với một chú rồng và đặt chú tên Toothless. Mối quan hệ này đã thay đổi hoàn toàn cuộc sống của cậu khi cậu đấu tranh để thuyết phục cả bộ tộc mình rằng việc giết rồng là không cần thiết…",
+            "image":"https://image.tmdb.org/t/p/w185//d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//9q0HTEzChHgUqVzNnVJGU5O7tlM.jpg"
+
+        },
+        {
+            "id":7,
+            "mainTitle":"Ferdinand (2017)",
+            "subTitle":"Ferdinand Phiêu lưu ký",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h47m",
+            "MIDB":"8.4",
+            "description":"Ban đầu, Ferdinand vốn có một cuộc sống hoàn hảo bên cạnh gia đình của mình. Nhưng mọi chuyện trở nên rắc rối khi cậu lớn dần. Một hình hài quá khổ bên trong một thế giới nhỏ bé đã khiến Ferdinand vô tình trở thành mối nguy hại cho mọi người. Bất chấp nội tâm đáng yêu và tốt đẹp, người ta vẫn cho rằng Ferdinand là một sinh vật hung hãn dựa trên vẻ ngoài của cậu. Những tháng ngày êm đềm của bò ta đã chấm dứt hoàn toàn. Ferdinand bị con người nhẫn tâm đưa đến một vùng đất thật xa xôi.",
+            "image":"https://image.tmdb.org/t/p/w185//rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//sTOhZruocNubL0HxjvdouwCEL9I.jpg"
+
+        },
+        {
+            "id":8,
+            "mainTitle":"Alice In Wonderland(2010)",
+            "subTitle":"Alice ở xứ sở thần tiên",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h48m",
+            "MIDB":"6.5",
+            "description":"Đã 10 năm kể từ ngày rơi xuống chiếc hố thỏ và lạc vào Xứ Sở Thần Tiên, nay Alice Kingsley đã 19 tuổi và trở thành một thiếu nữ xinh đẹp. Khi bất ngờ bị cầu hôn tại bữa tiệc lớn, cô gái đã bỏ chạy và một lần nữa lạc xuống Xứ Sở Thần Tiên. Nhưng Xứ Sở Thần Tiên giờ chẳng còn đẹp đẽ như xưa mà đã trở nên điêu tàn dưới bàn tay ngự trị của mụ Nữ Hoàng Đỏ. Dẫu Alice không còn nhớ chút gì về chốn ma mị này, nhưng tất cả những người bạn nơi đây đều vẫn còn nhớ cô gái. Và chính Alice sẽ là người giải cứu tất cả, trả lại sự yên bình cho mảnh đất màu nhiệm này... ",
+            "image":"https://image.tmdb.org/t/p/w185//o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//20pkC7yJdCV4J1IMKfsCT9QU7zV.jpg"
+
+        },
+        {
+            "id":9,
+            "mainTitle":"The Amazing Spider Man 2 (2014)",
+            "subTitle":"Người Nhện siêu đẳng 2",
+            "degree":2,
+            "level":"High beginner",
+            "time":"02h02m",
+            "MIDB":"6.7",
+            "description":"Cuộc sống của Po hiện tại đẹp như một giấc mơ: trở thành Thần Long Đại Hiệp, bảo vệ Thung Lũng Yên Bình cùng với những người bạn và các sư huynh và sư tỷ kung fu đồng môn là Ngũ Đại Hào Kiệt. Thế nhưng, cuộc sống mới của Po bỗng dưng bị đe dọa với sự xuất hiện của một thế lực đen tối khủng khiếp. Hắn sử dụng một vũ khí bí mật và không có gì ngăn chặn nổi, nhằm xâm chiếm Trung Hoa và hủy diệt hoàn toàn môn võ kung fu. Po và The Furious Five phải có một cuộc hành trình băng qua lục địa Trung Hoa nhằm tiêu diệt thế lực xấu xa đó. Nhưng làm thế nào Po có thể chặn đứng một thứ vũ khí mà nó có thể chặn đứng tuyệt đỉnh kung fu? ",
+            "image":"https://image.tmdb.org/t/p/w185//c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//rF3kAqk08zGSvs8m6hRwsi28nHg.jpg"
+
+        },
+        {
+            "id":10,
+            "mainTitle":"Coraline (2009)",
+            "subTitle":"Cô bé Coraline",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h31m",
+            "MIDB":"7.3",
+            "description":"Cuộc sống của Po hiện tại đẹp như một giấc mơ: trở thành Thần Long Đại Hiệp, bảo vệ Thung Lũng Yên Bình cùng với những người bạn và các sư huynh và sư tỷ kung fu đồng môn là Ngũ Đại Hào Kiệt. Thế nhưng, cuộc sống mới của Po bỗng dưng bị đe dọa với sự xuất hiện của một thế lực đen tối khủng khiếp. Hắn sử dụng một vũ khí bí mật và không có gì ngăn chặn nổi, nhằm xâm chiếm Trung Hoa và hủy diệt hoàn toàn môn võ kung fu. Po và The Furious Five phải có một cuộc hành trình băng qua lục địa Trung Hoa nhằm tiêu diệt thế lực xấu xa đó. Nhưng làm thế nào Po có thể chặn đứng một thứ vũ khí mà nó có thể chặn đứng tuyệt đỉnh kung fu? ",
+            "image":"https://image.tmdb.org/t/p/w185//mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//rRpAZOPY3XxMJY65AJ396IWyjU4.jpg"
+
+        },
+        {
+            "id":11,
+            "mainTitle":"Ratatouile (2007)",
+            "subTitle":"Chuột đầu bếp",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h42m",
+            "MIDB":"6.3",
+            "description":"Ratatouille ( Chú Chuột Đầu Bếp) là bộ phim hoạt hình kể về chuyến phiêu lưu của Remy, một chú chuột có lòng yêu thích ẩm thực và mong muốn được đến Paris để thực hiện ước mơ trở thành đầu bếp nổi tiếng. Tuy bị gia đình ngăn cản nhưng cuối cùng Remy cũng đặt chân được đến kinh đô ánh sáng. Tại đây, Remy quen Linguini - cậu con trai của thần tượng đồng thời là bếp trưởng nổi tiếng của nhà hàng Gusteau. Remy và Linguini trở thành cặp bài trùng trong việc chế biến các món ăn mới lạ, đồng thời chứng mình quan niệm của Gusteau: ai cũng có thể nấu ăn ngon",
+            "image":"https://image.tmdb.org/t/p/w185//npHNjldbeTHdKKw28bJKs7lzqzj.jpg",
+            "background":""
+
+        },
+        {
+            "id":12,
+            "mainTitle":"Monsters University",
+            "subTitle":"Vẹt đuôi dài RIO",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h36m",
+            "MIDB":"6.9",
+            "description":"Với Monster University, Sulley và Mike đều đã trưởng thành, đi làm, công việc ổn định, một cuộc sống tự do không ràng buộc gì cả. Thế nhưng trước đó có ai biết rằng Sulley và Mike đã phải trải qua một môi trường đào tạo nên Quái Vật Mike và Quái Vật Sulley của ngày hôm nay. Gặp lại Mike và Sulley trong một hoàn cảnh hoàn toàn khác, hãy thử đoán xem điều gì đang chờ đợi bạn?",
+            "image":"https://image.tmdb.org/t/p/w185//tyHHjZEzJutWggujN1KP0a1jfLX.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg"
+
+        },
+        {
+            "id":13,
+            "mainTitle":"sherk the Third (2007)",
+            "subTitle":"Gã Chằn Tinh tốt bụng 3",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h33m",
+            "MIDB":"6.0",
+            "description":"..Nội dung “Shrek 3” nói về Shrek sau khi đã yên vị phò mã bên nàng công chúa Fiona (đã không còn xinh đẹp). Anh nghiêm túc nhận ra và gánh vác những trách nhiệm mới mà cuộc sống mang lại: trách nhiệm của một vị vua trong tương lai và trách nhiệm của người chồng chăm lo cho cuộc sống gia đình. Đức vua Harold, trong lốt một chú ếch, lâm trọng bệnh và qua đời, để lại cho Shrek trọng trách gánh vác giang sơn, Shrek tự nhận thấy mình không thể làm được một vị vua tài giỏi, đã một mực từ chối trách nhiệm. Nhưng sự đời thật khó biết đến chữ “ngờ”… Tiếp nối nội dung của câu chuyện ở phần 1 và 2, Shrek 3 đưa khán giả theo chân những nhân vật cổ tích tham gia một chuyến phiêu lưu mới không ít những tình huống dở khóc dở cười. Bộ phim đã đạt được nhiều đề cử danh giá cho phim hoạt hình xuất sắc nhất ở các giải thưởng lớn như Kid’s Choice Award hay BAFTA Award.",
+            "image":"https://image.tmdb.org/t/p/w185//iWCWbYqPGyNIHcA8wZ9zsGCugcp.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//A7JgyktzOyO3lalZFAHnJMulULO.jpg"
+
+        },
+        {
+            "id":14,
+            "mainTitle":"Early Man (2018)",
+            "subTitle":"Ngôi làng tiền sử",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h33m",
+            "MIDB":"6.9",
+            "description":"Nội dung phim NGÔI LÀNG TIỀN SỬ kể về câu chuyện Khi đồ đá đấu với đồ đồng Ngày xửa ngày xưa, khi mà người tiền sử và những chú voi ma-mút còn sinh sống trên Trái Đất... Dug và đồng đội lợn lòi của mình là Hognob cùng thống nhất bộ lạc và bảo vệ quê hương. Kẻ thù xảo quyệt của họ là Chúa tể Nooth cùng thành phố Đồ Đồng. -- Bộ phim hoạt hình với kinh phí $50.000,000 này do studio Aardman sản xuất - studio vốn đã quen thuộc với những bộ phim cực kỳ dễ thương như Phi Đội Gà Bay, Wallace & Gromit, Shaun the Sheep... Đặc biệt còn có sự góp mặt lồng tiếng của các diễn viên nổi tiếng Tom Hiddleston, Maisie Williams, Eddie Redmayne. ",
+            "image":"https://image.tmdb.org/t/p/w185//ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//9m71RMP45mg599xtKPyjicyHn1a.jpg"
+
+        },
+        {
+            "id":15,
+            "mainTitle":"Despiceble Me 3 (2017)",
+            "subTitle":"kẻ cắp mặt trăng 3",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h41m",
+            "MIDB":"6.0",
+            "description":"Chọn trở lại con đường lương thiện, Gru trở thành một cựu ác nhân nghèo khổ. Họ khốn khó đến mức cô bé Agnes quyết định bán đi chú ngựa nhồi bông mình quý nhất để giúp đỡ gia đình. Lũ Minions cũng không chịu yên khi suốt ngày khó chịu về ngài chủ nhân đã không còn ác. Chúng muốn Gru trở lại như ngày xưa. -- Lúc này, người anh trai sinh đôi của Gru xuất hiện. Anh có cơ hội giữ lấy mọi thứ mình yêu thương nhưng lại phải quay về con đường cũ. Liệu Gru sẽ lựa chọn thế nào đây? -- Những nguy hiểm đang chờ đón cựu ác nhân này và đám Minions vàng chóe sẽ giúp Despicable Me 3 càn quét toàn cầu",
+            "image":"https://image.tmdb.org/t/p/w185//6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//ftRkFtAGuHngHnLiOxktq0aCVMF.jpg"
+
+        },
+        {
+            "id":16,
+            "mainTitle":"Secret of the Wings (2012)",
+            "subTitle":"Tiên nữ Tinker Bell Bí mật",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h37m",
+            "MIDB":"7.3",
+            "description":"Tinker Bell vô tình phát hiện ra đôi cánh của mình Bí Mật Đôi Cánh Tiên phát sáng khi cô vào khu rừng mùa đông, nơi mà các tiên như cô bị cấm không được vào. Cô muốn biết tại sao cánh của mình lại phát sáng, cô quyết định một mình vào khu rừng mùa đông. Ở đây cô phát hiện ra nhiều điều bí mật. -- Tiên Nữ Tinker Bell được sinh ra từ nụ cười đầu tiên của đứa trẻ sơ sinh và được ngọn gió mang tới Pixie Hollow (một hòn đảo ở Never Land). Tại đây cô gặp những nàng tiên nhỏ khác và biết rằng năng lực của mình là để phục vụ việc hàn gắn mọi thứ – một thiên thần sửa chữa mọi thứ. Các tiên thợ khác đã giúp nhân viên mới học việc và Tinker Bell đã học được nghề, cô có thể sửa được máy nhạc bằng việc sử dụng nước biển… ",
+            "image":"https://image.tmdb.org/t/p/w185//5q72GagtB9NM4i3z7M40EXLb3ut.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//6yD3URD3Z1ufDRlbgtxm3DiWg3x.jpg"
+
+        },
+        {
+            "id":17,
+            "mainTitle":"True Blood",
+            "subTitle":"Thần huyết",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h50m",
+            "MIDB":"6.5",
+            "description":"Phim Thuần Huyết 5 tiếp nối thành công của serie phim truyền hình cực kỳ ăn khách của HBO, tiếp tục cuộc chiến của những chính trị gia Quyền lực Ma cà rồng và những nguy hiểm của trào lưu ma cà rồng. Trong phim online này, động cơ của Bill ngày càng trở nên liều lĩnh, tàn khốc và thật tai hại khi anh tham gia vào sức mạnh của Lilith. Bill đang từng bước thực hiện các bước cuối cùng của mình trong việc trở thành ma cà rồng mạnh nhất, quá trình chuyển đổi của Bill thành con quái vật đáng sợ sẽ là điều thú vị trong phim Thuần Huyết 5. ",
+            "image":"https://image.tmdb.org/t/p/w185//vTkL1QE4yHXu5v13hoqd83Iv5R5.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//n2XxYToG1wVM4E4g6rXXcGW6ffQ.jpg"
+
+        },
+        {
+            "id":18,
+            "mainTitle":"The Croods (2013)",
+            "subTitle":"Cuộc phiêu lưu của nhà Croods",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h38m",
+            "MIDB":"7.2",
+            "description":"The Croods lấy bối cảnh thời kỳ tiền sử, nơi đó chỉ còn một gia đình còn sống sót nhờ vào nguyên tắc khắc nghiệt của người cha Grug “không bao giờ được rời khỏi hang động của mình và không được tìm hiểu những điều mới lạ”. Eep là cô con gái lớn luôn tò mò về thế giới xung quanh. Mọi chuyện bỗng chốc thay đổi khi cô gặp Guy, một anh chàng hết sức thú vị với những phát minh lạ thường như lửa, dây nịt, giày … Và những thông tin anh chàng Guy mang tới đã đưa cả gia đình Croods vào một cuộc phiêu lưu mà họ không hề ngờ tới.",
+            "image":"https://image.tmdb.org/t/p/w185//27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//u4mD4FSpnppWmQNHEoPsRwCWjyd.jpg"
+
+        },
+        {
+            "id":19,
+            "mainTitle":"Corpse Bride (2005)",
+            "subTitle":"Cô dâu ma",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h17m",
+            "MIDB":"7.4",
+            "description":"Câu chuyện là bộ phim hoạt hình lãng mạn hài hước: Victor – con trai một gia đình bán cá sắp làm đám cưới với Victoria – con gái của một gia đình quý tộc danh giá đang đến hồi khánh kiệt. Sau buổi “thực tập” cử hành hôn lễ bất thành, Victor đã một mình đi ra cánh rừng hoang vắng để tập dợt vai trò chú rể. Sau khi đọc xong lời nguyền, anh chàng Victor đã vô tình đeo chiếc nhẫn cưới vào một cành cây có hình dạng ngón tay ở một bìa rừng và đọc to lời thề vợ chồng. Không ngờ cành cây đó lại chính là ngón tay của một xác cô gái bị mưu sát đã lâu. Và như một câu chuyện cười có thật, bây giờ xác chết đó nhờ lời thề của Victor mà trở thành người vợ chính thức của anh chàng. Liệu người và ma, trần thế và địa ngục, ở đâu Victor sẽ tìm được tình yêu?",
+            "image":"https://image.tmdb.org/t/p/w185//isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//65BCy7SKF2evT9aEPqTgXl9OVLL.jpg"
+
+        },
+        {
+            "id":20,
+            "mainTitle":"Home (2015)",
+            "subTitle":"Hành trình trở về",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h34m",
+            "MIDB":"4.6",
+            "description":"Trải qua cuộc hành trình kéo dài hàng triệu năm ánh sáng, tộc người ngoài hành tinh Boov hiền lành, vui nhộn trong HÀNH TRÌNH TRỞ VỀ (tựa gốc HOME) chỉ mong kiếm được một mái nhà yên bình để nương thân. Hi vọng của họ tắt dần khi các hành tinh họ đặt chân đến đều quá nguy hiểm, hoặc nhanh chóng bị hủy diệt hoặc thậm chí không thể có sự sống tồn tại. Dấu hiệu của Trái đất xuất hiện trên màn hình rada như ánh sáng cuối đường hầm, thắp lên ngọn lửa hi vọng về một quê hương lâu dài cho những người dân Boov lương thiện.",
+            "image":"https://image.tmdb.org/t/p/w185//b7czgMTk5txqLr2UczBb0Wez77E.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//keKVUgQOK8RXqaOU9zsbfATJTpQ.jpg"
+
+        },
+        {
+            "id":21,
+            "mainTitle":"Bami (1942)",
+            "subTitle":"Chú Nai Bami",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h10m",
+            "MIDB":"7.3",
+            "description":"Những người hâm mộ các bộ phim hoạt hình cổ điển của hãng Walt Disney nay lại có cơ hội thưởng thức phần 2 của Bambi khi cậu gặp lại được người cha của mình. Bambi giờ đây phải tìm cách để trưởng thành dưới sự rèn luyện nghiêm khắc của cha cậu - vốn là một vị hoàng tử anh dũng... ",
+            "image":"https://image.tmdb.org/t/p/w185//wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//cNHXm0Bv5GpatBOliHt9UdsyVFW.jpg"
+
+        },
+        {
+            "id":22,
+            "mainTitle":"Nancy Mcphee (2005)",
+            "subTitle":"Bảo mẫu phù thủy",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h37m",
+            "MIDB":"5.3",
+            "description":"Sau khi người vợ qua đời, ông Brown phải một mình chăm sóc 7 đứa con nghịch ngợm và hiếu động. Một ngày nọ bỗng dưng một người phụ nữ xuất hiện ở nhà ông và nhận làm người chăm sóc lũ trẻ. Đặc biệt hơn là cùng lúc đó cũng có một bà tiên dùng các phép thuật thần kỳ để giúp gia đình ông. Cho đến khi lũ trẻ trở nên ngoan ngoãn thì ông Brown cũng đem lòng yêu cô giúp việc này và bấy giờ bí mật về thân thế của cô mới được hé lộ. ",
+            "image":"https://image.tmdb.org/t/p/w185//AskzEIoFvIYnYClCW6DyoYDHZ9J.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//oS2T1ZjHkQ0NAbggEc2vHpq6UJv.jpg"
+
+        },
+        {
+            "id":23,
+            "mainTitle":"The Advantures of Tintin (2011)",
+            "subTitle":"Cuộc phiêu lưu của Tin tin",
+            "degree":2,
+            "level":"High beginner",
+            "time":"01h47m",
+            "MIDB":"7.4",
+            "description":"Tintin cùng người bạn trung thành – chú chó Snowy cùng khám phá một con tàu mô hình mang trong mình bí mật lớn. Bị lôi kéo vào một bí ẩn được cất giấu hàng thế kỷ, Tintin trở thành mục tiêu săn lùng của kẻ độc ác Ivan Ivanovitch Sakharine. Với sự giúp đỡ của chú chó Snowy, thuyền trưởng Haddock dày dặn kinh nghiệm và hai thám tử vụng về Thompson & Thomson, Tintin sẽ phiêu lưu qua nửa vòng trái đất, đánh lừa kẻ thù và chạy trốn khỏi những cuộc đuổi bắt nghẹt thở.",
+            "image":"https://image.tmdb.org/t/p/w185//iXzfrdOYh0XmdjREIrZuU8sGHg6.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//5parN40mSwZMCP4Ig11lE6keeFi.jpg"
+
+        },
+        {
+            "id":24,
+            "mainTitle":"Lilo & Stitch(2002)",
+            "subTitle":"Lilo và Stitch",
+            "degree":2,
+            "level":"High beginner",
+            "time":"02h15m",
+            "MIDB":"7.2",
+            "description":"Nhà khoa học xấu xa ngoài hành tinh Dr. Jumba Jookiba tạo ra những sinh vật độc ác. Điều này đi ngược với luật pháp của hành tinh của ông, nên ông bị bắt giữ. Trong lúc đó, một thí nghiệm mang số 626 đã thoát khỏi hành tinh và bay tới Trái đất bằng tàu vũ trụ đến Trái Đất. Ở trái đất, cô bé Lilo đã nghĩ thí nghiệm 626 là một con chó nên đặt tên là Stitch và nhặt về nuôi. Stitch trở thành bạn thân nhất của Lilo. Cô bé cố gắng dạy Stitch trở nên ngoan ngoãn và tốt. Lilo dùng nhạc của Elvis Presley để dạy Stitch. Stitch đã học được rằng Ohana nghĩa là gia đình. Gia đình nghĩa là không ai bị bỏ rơi hay bị lãng quên. Sau đó, những thí nghiệm của Jumba do bị Dr.Hamsterviel, một nhà bác học xấu xa khác, đánh cắp. Nhưng lại trốn xuống Trái Đất, nên Lilo và Stitch có nhiệm vụ là tìm kiếm các thí nghiệm khác trước khi Hamsterviel sử dụng chúng vào việc xấu --",
+            "image":"https://image.tmdb.org/t/p/w185//d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//w102m4HoCP5uxhW8Yh7Hv7QShix.jpg"
+
+        }
+    ],
+    "Level-3":[
+        {
+            "id":1,
+            "mainTitle":"Ant-Man and the Wasp (2018)",
+            "subTitle":"Người Kiến và chiến binh ong",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h58m",
+            "MIDB":"7.3",
+            "description":"Sau trận nội chiến khốc liệt, Scott Lang – anh hùng Người Kiến với khả năng phóng to, thu nhỏ lại phải đối mặt với sự lựa chọn khó khăn trong cuộc sống đời thường: làm siêu anh hùng gánh vác những trách nhiệm nặng nề của thế giới hay làm một người cha có trách nhiệm. Trong lúc ấy, Scott được tiến sĩ Hank Pym và Hope Van Dyne – Chiến Binh Ong triệu tập để thực hiện một nhiệm vụ cấp bách mới. Scott sẽ phải mặc vào bộ áo Người Kiến một lần nữa và chiến đấu bên cạnh chiến binh ong để lật mở những bí ẩn trong quá khứ.",
+            "image":"https://image.tmdb.org/t/p/w185//rv1AWImgx386ULjcf62VYaW8zSt.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//6P3c80EOm7BodndGBUAJHHsHKrp.jpg"
+
+        },
+        {
+            "id":2,
+            "mainTitle":"The Meg (2018)",
+            "subTitle":"Cá mập siêu bạo chúa",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h54m",
+            "MIDB":"5.9",
+            "description":"Từng một lần thoát chết khỏi cá mập khổng lồ, thuyền trưởng hải quân Jonas Taylor lại phải đối mặt với loài vật nguy hiểm nhất đại dương này lần nữa – trong tình thế còn ngặt nghèo hơn gấp trăm lần. -- Năm năm trước, khi thi hành nhiệm vụ, Jonas Taylor gặp phải một con cá mập khổng lồ khiến phân nửa thủy thủ đoàn bỏ mạng. Chẳng những bị cách chức, anh còn mất cả hôn nhân và danh dự. Không ai tin những gì anh kể lại về sinh vật kinh khủng ngoài sức tưởng tượng tưởng đã tuyệt chủng triệu năm về trước. Để rồi, khi chìm đắm trong nỗi sợ hãi và thất vọng, một lần nữa anh phải chiến đấu với nó để giải cứu vợ con mình. ",
+            "image":"https://image.tmdb.org/t/p/w185//eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//rH79sB6Nkx4cMW3JzsUy7wK0rhX.jpg"
+
+        },
+        {
+            "id":3,
+            "mainTitle":"the First Purge (2018)",
+            "subTitle":"Cuộc thanh trừng đầu tiên ",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h37m",
+            "MIDB":"5.1",
+            "description":"Phim hành động kinh dị này của đạo diễn Gerard McMurray đóng vai trò như một prequel kể lại những sự kiện dẫn đến sự kiện Thanh trừng đầu tiên. Để đẩy tỷ lệ tội phạm xuống dưới một phần trăm trong thời gian còn lại của năm, Tổ chức sáng lập mới của Hoa Kỳ (NFFA) kiểm tra một lý thuyết xã hội học nhằm chọc giận một cộng đồng bị cô lập trong một đêm để họ sát hại lẫn nhau.",
+            "image":"https://image.tmdb.org/t/p/w185//litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//r4clWIxKeWoqrHspQP0XunuUmB7.jpg"
+
+        },
+        {
+            "id":4,
+            "mainTitle":"Ready Player One (2018)",
+            "subTitle":"Đấu trường ảo",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h33m",
+            "MIDB":"6.6",
+            "description":"Ready Player One xoay quanh cuộc phiêu lưu của Wade Watts (do Tye Sheridan thủ vai). Phim lấy bối cảnh tại Columbus, Ohio năm 2045. Thế giới thực mà Wade đang sống là một nơi có sự phân hóa giàu nghèo rõ ràng. Chính vì vậy, hầu hết tất cả người dân sống tại đó, bao gồm cả Wade, đều hòa mình vào thế giới ảo mang tên OASIS. ",
+            "image":"https://image.tmdb.org/t/p/w185//pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg"
+
+        },
+        {
+            "id":5,
+            "mainTitle":"Hereditary (2018)",
+            "subTitle":"Di truyền",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h38m",
+            "MIDB":"4.1",
+            "description":"Phim Di Truyền có sự tham gia của Toni Collette, Gabriel Byrne, Alex Wolff và Milly Shapiro trong vai một gia đình bị quỷ ám. Nói chính xác hơn, họ bị ám bởi người bà trong dòng họ đã chết. ",
+            "image":"https://image.tmdb.org/t/p/w185//4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//pS9Aub8MPyQbENblGD8mHeaqMuv.jpg"
+
+        },
+        {
+            "id":6,
+            "mainTitle":"The Purge: Anarchy (2014)",
+            "subTitle":"Sự thanh trừng 2",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h42m",
+            "MIDB":"8.7",
+            "description":"Sau những sự kiện của phần một, một thời kỳ đen tối ập đến, tội phạm lộng hành, chính phủ không còn khả năng duy trì trật tự an ninh xã hội. Lúc này, các nhà chức trách bèn ban hành một chính sách kỳ lạ cho phép người dân có thể tự xử lý các hành vi tội phạm theo “luật rừng” trong một khoảng thời gian đã được ấn định từ trước. Tuy nhiên, điều này đã kéo theo hàng loạt sự kiện thanh trừng vô cùng khủng khiếp gây náo loạn, càng đẩy tình trạng vô chính phủ vượt ra ngoài tầm kiểm soát... ",
+            "image":"https://image.tmdb.org/t/p/w185//f2HD5iVhJWWv72QVWThUKk09zYy.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//kFFyh3mPukknIQBPMinoSeZIUOq.jpg"
+
+        },
+        {
+            "id":7,
+            "mainTitle":"Searching (2018)",
+            "subTitle":"Truy tìm tung tích",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h47m",
+            "MIDB":"8.4",
+            "description":"37 tiếng sau khi con gái mất tích, ông bố David Kim quyết định tự mình điều tra sự thật. Đến lúc này, ông bàng hoàng nhận ra một điều rằng: Hóa ra từ trước đến nay ông không hề hiểu gì về cuộc sống của cô con gái 16 tuổi cả.",
+            "image":"https://image.tmdb.org/t/p/w185//pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//3CCfgSvtvN3HwVs5hbcC1NhOAzw.jpg"
+
+        },
+        {
+            "id":8,
+            "mainTitle":"Ant-Man (2015)",
+            "subTitle":"Người kiến 2015",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h48m",
+            "MIDB":"6.5",
+            "description":"Ant-Man kể về câu chuyện của một người đàn ông tên là Scott Lang, có khả năng thu nhỏ về kích thước nhưng lại tăng sức mạnh. Điều này buộc Scott Lang phải đón nhận yếu tố anh hùng trong mình và giúp cố vấn là Tiến sĩ Hank Pym bảo vệ bí mật đằng sau bộ trang phục Ant-Man, thoát khỏi một mối đe dọa khủng khiếp. Đối mặt với những rào cản khổng lồ, Scott Lang và Hank Pym phải lên kế hoạch hoàn thành một vụ cướp để có thể cứu thế giới. ",
+            "image":"https://image.tmdb.org/t/p/w185//fddtVEUozxvLmehR5yGZjem44pD.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//eDzUGAPSf6vv1J29MJM0jlCiDJL.jpg"
+
+        },
+        {
+            "id":9,
+            "mainTitle":"Black Panther (2018)",
+            "subTitle":"Chiến Binh Báo Đen",
+            "degree":3,
+            "level":"intermediate",
+            "time":"02h02m",
+            "MIDB":"6.7",
+            "description":"Vương quốc Wakanda, quê hương của Black Panther/ T'Challa hiện ra qua lời kể của một nhân chứng sống sót trở về. Đây là quốc gia khá khép kín và sở hữu lượng Vibranium lớn nhất trên thế giới. Black Panther - người cầm quyền của Wakanda sở hữu bộ áo giáp chống đạn và móng vuốt sắc nhọn, anh được miêu tả là “người tốt với trái tim nhân hậu”. -- Nhưng cũng chính vì những đức tính tốt này mà Black Panther gặp khó khăn khi kế thừa ngai vàng sau khi vua cha băng hà. Đối mặt với sự phản bội và hiểm nguy, vị vua trẻ phải tập hợp các đồng minh và phát huy toàn bộ sức mạnh của Black Panther để đánh bại kẻ thù, đem lại an bình cho nhân dân của mình. ",
+            "image":"https://image.tmdb.org/t/p/w185//uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//b6ZJZHUdMEFECvGiDpJjlfUWela.jpg"
+
+        },
+        {
+            "id":10,
+            "mainTitle":"Assassination Nation (2018)",
+            "subTitle":"Quốc gia thảm sát",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h31m",
+            "MIDB":"7.3",
+            "description":"Assassination Nation lấy bối cảnh thị trấn giả tưởng Salem, cũng là một cách ẩn dụ thú vị để liên kết phim với vùng đất cùng tên trong lịch sử từng là nơi mà những phù thủy bị kết tội và thiêu sống. -- Chuyện phim xoay quanh một nhóm bạn gồm những cô nàng xinh đẹp, mỗi nàng mang một bí mật động trời khác nhau. Ngày nọ, bí mật của các nàng lẫn hầu hết cư dân trong thị trấn bị một gã hacker phát tán lên mạng. Mâu thuẫn và căng thẳng cứ thế leo thang; từ một trò đùa tưởng chừng vô hại đã khiến đám đàn ông trên toàn Salem phát điên, dồn sức đi săn lùng bốn cô gái nhỏ nhắn tội nghiệp. ",
+            "image":"https://image.tmdb.org/t/p/w185//rcCpI5TJ7zMzLXS0cHWvPfhCG2c.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//zYxQIKKyyuYpLavX8AhTDDusBDH.jpg"
+
+        },
+        {
+            "id":11,
+            "mainTitle":"Hotel Transylvania 3(2018)",
+            "subTitle":"Khách sạn huyền bí 3",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h42m",
+            "MIDB":"6.3",
+            "description":"Đã quá ngán với cường độ làm việc chăm chỉ 365 ngày không nghỉ, bá tước Dracula quyết định “đình công”. Để khai sáng cho người cha trăm tuổi chưa bao giờ bước ra khỏi “lũy tre làng”, vợ chồng nhà Jonathan – Mavis lập ra kế hoạch xả hơi táo bạo: Thuê đứt một em du thuyền hạng sang để đưa tất cả bộ xậu quái vật già trẻ lớn bé làm một chuyến ra khơi nhớ đời. Đồ ăn sang chảnh, bãi biển tuyệt đẹp, giải trí đỉnh cao và cả tam giác quỷ Bermuda? ",
+            "image":"https://image.tmdb.org/t/p/w185//gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//m03jul0YdVEOFXEQVUv6pOVQYGL.jpg"
+
+        },
+        {
+            "id":12,
+            "mainTitle":"The Equalizer 2 (2018)",
+            "subTitle":"Thiện ác đối đầu 2",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h36m",
+            "MIDB":"6.9",
+            "description":"The Equalizer 2 - Thiện Ác Đối Đầu 2 là một bộ phim hành động cực kỳ gây cấn và kịch tính với sự tham gia diễn xuất trở lại của diễn viên gạo cội Denzel Washington. -- Trong phim, cựu đặc vụ CIA tiếp tục trở thành “người hùng thầm lặng” truy tìm công lý đặc biệt càng quyết liệt hơn sau cái chết của người bạn thân Susan. ",
+            "image":"https://image.tmdb.org/t/p/w185//cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+            "background":""
+
+        },
+        {
+            "id":13,
+            "mainTitle":"Skyscraper (2018)",
+            "subTitle":"Tòa tháp trọc trời",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h33m",
+            "MIDB":"6.0",
+            "description":"Dwayne Johnson sẽ vào vai cựu quân nhân và cựu trưởng nhóm đặc nhiệm giải cứu của FBI Will Ford đầy dũng cảm. Không may trong một nhiệm vụ nguy hiểm, tai nạn khủng khiếp xảy đến với Will làm anh mất đi chân trái của mình. Kể từ đó, Will Ford từ bỏ công việc tại FBI và trở thành chuyên gia đánh giá an ninh cho các tòa nhà. -- Trong một lần làm việc, Tòa nhà cao 240 tầng với hệ thống an ninh tối tân đột nhiên bị cháy lớn ở tầng 96. Những con người, cạm bẫy và thế lực nào đứng sau thảm họa này chắc chắn đang nhắm vào cựu quân nhân và lấy gia đình anh ra làm con tin. Với kinh nghiệm, sự gan dạ của một người lính cùng tình yêu gia đình mãnh liệt, liệu Will Ford có tìm ra được kẻ chủ mưu và cứu lấy gia đình của anh?",
+            "image":"https://image.tmdb.org/t/p/w185//5LYSsOPzuP13201qSzMjNxi8FxN.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg"
+
+        },
+        {
+            "id":14,
+            "mainTitle":"A Quiet Place (2018)",
+            "subTitle":"Vùng đất câm lặng",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h33m",
+            "MIDB":"6.9",
+            "description":"A Quiet Place(Vùng Đất Câm Lặng):là một bộ phim kinh dị năm 2018 của Mỹ do John Krasinski đạo diễn, người đứng cạnh Emily Blunt. Cốt truyện theo sau một gia đình phải sống cuộc sống trong im lặng trong khi trốn tránh những sinh vật săn độc quyền bằng âm thanh. Bộ phim được sản xuất bởi công ty của Michael Bay, Platinum Dunes, cũng thuộc sở hữu của Andrew Form và Bradley Fuller. Kịch bản được viết bởi Krasinski, Bryan Woods, và Scott Beck, dựa trên một câu chuyện của Woods và Beck. Beck và Woods bắt đầu làm việc về câu chuyện trong năm 2014, và Paramount Pictures đã mua kịch bản đặc biệt của họ vào năm 2017. Krasinski sau đó tham gia với tư cách là một đạo diễn và viết một bản thảo mới của kịch bản. Nhiếp ảnh chính đã diễn ra vào cuối năm ở ngoại ô New York.",
+            "image":"https://image.tmdb.org/t/p/w185//nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//roYyPiQDQKmIKUEhO912693tSja.jpg"
+
+        },
+        {
+            "id":15,
+            "mainTitle":"Johnny English Strikes Again (2018)",
+            "subTitle":"Điệp viên không không thấy 3",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h41m",
+            "MIDB":"6.0",
+            "description":"JOHNNY ENGLISH: TÁI XUẤT GIANG HỒ là phần thứ ba của loạt phim hài Johnny English, với Rowan Atkinson trong vai một gã bỗng dưng trở thành một điệp viên bí mật. Cuộc phiêu lưu mới bắt đầu khi một vụ điều tra hệ thống an ninh mạng cho thấy danh tính của tất cả các điệp viên đang hoạt động tại Anh, và Johnny là hy vọng cuối cùng để điều tra bí mật ấy. -- Dù được biết là một điệp viên nghỉ hưu nhưng đây là lần đầu tiên gã giang hồ này bắt tay động với sứ mệnh tìm kiếm kẻ tấn công. Là một người với kỹ năng ít ỏi và năng lực hạn chế, Johnny English có phải vượt qua được những thách thức trong thời buổi công nghệ hiện đại để hoàn thành sứ mệnh này thành công hay không?",
+            "image":"https://image.tmdb.org/t/p/w185//tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//b7Q0uX4Tcd6lXWItJEMxYk9XBbc.jpg"
+
+        },
+        {
+            "id":16,
+            "mainTitle":"Rampage (2018)",
+            "subTitle":"Siêu thú cuồng nộ",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h37m",
+            "MIDB":"7.3",
+            "description":"Rampage (Siêu Thú Cuồng Nộ): kể về nhà sinh vật học Davis Okoye có mối liên kết khăng khít với George - một chú gorilla lưng bạc được anh chăm sóc từ nhỏ. Một thí nghiệm đột biến ngoài ý muốn đã làm biến đổi gorilla thành quái vật khổng lồ hung hăng. Gorilla cùng những sinh vật bị biến đổi khác đã tấn công con người và đẩy nhân loại đứng trước hiểm họa diệt vong.",
+            "image":"https://image.tmdb.org/t/p/w185//3gIO6mCd4Q4PF1tuwcyI3sjFrtI.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//wrqUiMXttHE4UBFMhLHlN601MZh.jpg"
+
+        },
+        {
+            "id":17,
+            "mainTitle":"Fifty Shades Freed (2018)",
+            "subTitle":"Năm mươi sắc thái 3: tự do",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h50m",
+            "MIDB":"6.5",
+            "description":"Anastasia đã trở thành bà Grey, lấy được anh chồng Christian đẹp trai và sống trong ngôi nhà mới nguy nga tráng lệ. Thế nhưng, những bóng ma quá khứ vẫn ám ảnh gia đình hạnh phúc của họ. Người đàn bà đã dẫn Christian Grey vào con đường đen tối và gã sếp cũ Jack Hyde liên tục tìm cách quấy phá đôi vợ chồng trẻ. Họ phải làm thế nào để giữ được hạnh phúc vừa được tạo dựng.",
+            "image":"https://image.tmdb.org/t/p/w185//jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg"
+
+        },
+        {
+            "id":18,
+            "mainTitle":"The Girl in the Spider's web 2018",
+            "subTitle":"Cô gái trong lưới nhiện ảo",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h38m",
+            "MIDB":"7.2",
+            "description":"Được chuyển thể từ loạt tiểu thuyết trinh thám bán chạy nhất của Thuỵ Điển, The Girl in the Spider’s Web là phần hậu truyện của The Girl with the Dragon Tattoo (2011). -- Trong phần phim này, nữ hacker có hình xăm rồng Lisbeth Salander (Claire Foy) và nhà báo Mikael Blomkvist (Beau Gadsdon) sẽ trở lại với một phi vụ mới gay go, khó khăn và phức tạp gấp nhiều lần. Cụ thể, Lisbeth Salander được chọn tham gia thực hiện một nhiệm vụ mới, có liên quan đến dự án tuyệt mật quy tụ những bộ óc hàng đầu thế giới. Trong khi đó, nhà báo Mikael Blomkvist vốn đang vật vã ở toà soạn giữa cơn bão khủng hoảng tài chính, cũng bị kéo vào vụ tấn công tin tặc động trời nhằm vào nhà khoa học đầu ngành trong lĩnh vực trí tuệ nhân tạo. Hai người bạn lâu ngày không liên lạc sẽ được kết nối trong một phi vụ đặc biệt. -- Tính trong nguyên tác, The Girl in the Spider’s Web thực tế là cuốn tiểu thuyết thứ tư của Millennium. Stieg Larsson chấp bút ba cuốn đầu tiên, rồi ông đột ngột qua đời. Từ những ghi chép của người quá cố và được sự đồng thuận từ gia đình Larsson, David Lagercrantz đang nối dài chuỗi tác phẩm văn học. ",
+            "image":"https://image.tmdb.org/t/p/w185//w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//r0ljJIPBGsGdpeDdlHpzCiNnxiB.jpg"
+
+        },
+        {
+            "id":19,
+            "mainTitle":"Mamma Mia! Here we go agin (2018)",
+            "subTitle":"Mamma Mia ! Yêu lần nữa",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h17m",
+            "MIDB":"7.4",
+            "description":"Mười năm sau khi Mamma Mia! thu về 609 triệu USD trên toàn thế giới, khán giả sẽ lại được thăng hoa cùng những giai điệu của tình yêu tuổi trẻ rạo rực như nắng hè bỏng cháy trong Mamma Mia!: Yêu Lần Nữa (Tựa gốc: Mamma Mia!: Here We Go Again). Bối cảnh của bộ phim vẫn diễn ra tại hòn đảo Kalokairi huyền diệu của Hy Lạp, nơi đã vang lên những bản nhạc bất hủ của nhóm ABBA theo một phong cách hoàn toàn mới. Mamma Mia!: Yêu Lần Nữa hứa hẹn sẽ là bản tình ca ngọt ngào của một thời thơ mộng mà khán giả không thể bỏ lỡ trong dịp hè năm nay. ",
+            "image":"https://image.tmdb.org/t/p/w185//aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//kAErJpVU4ul9R3VzroM8awWrlT2.jpg"
+
+        },
+        {
+            "id":20,
+            "mainTitle":"The Advengers (2012)",
+            "subTitle":"Biệt đội siêu anh hùng ",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h34m",
+            "MIDB":"4.6",
+            "description":"Marvel’s The Avengers là bộ phim giả tưởng kể về một nhóm siêu anh hùng với những khả năng đặc biệt, họ bao gồm: Người Sắt, Thor, Captain America, và Người Khổng Lồ được gọi chung với cái tên SHIELD. Mục đích của SHIELD là nhằm bảo vệ Trái đất khỏi âm mưu hủy hoại của những thế lực xấu từ ngoài địa cầu mà kẻ cầm đầu là Loki. Marvel’s The Avengers Là một trong những phim được mong đợi nhất hè 2012, phim quy tụ dàn diễn viên đẹp với những cảnh quay sống động đã mang về cho nhà sản xuất hơn 1 tỷ USD. Nếu bạn đã từng là Fan của những siêu phẩm như: Spider-Man, Batman thì Marvel’s The Avengers quả là một bộ phim khó có thể bỏ qua.",
+            "image":"https://image.tmdb.org/t/p/w185//RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//hFE7x236SqBtajMKDlTWa4ynoni.jpg"
+
+        },
+        {
+            "id":21,
+            "mainTitle":"Mission: Impossible = Ghost Protocol (2011)",
+            "subTitle":"Nhiệm vụ bất khả thi - Chiến dịch bóng ma",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h10m",
+            "MIDB":"7.3",
+            "description":"Đặc vụ Ethan Hunt và cộng sự bị đổ lỗi là đã gây ra vụ đánh bom điện Kremlin. IMF - Impossible Mission Force bị tổng thống ra quyết định giải tán. Nhưng kế hoạch thực sự là để cho họ hoạt động bên ngoài tổ chức.Hunt nhận được một mệnh lệnh hợp tác cùng đồng nghiệp Brandt - kẻ biết nhiều về Hunt hơn là Hunt biết về anh ta… Đạo diễn Brad Bird đã rất thành công khi đưa thêm nhiều tình huống hài khiến bộ phim giữ được sự cân bằng sau những trường đoạn hành động gay cấn đến nghẹt thở. . Có thể nói Mission Impossible – Ghost Protocol là một tác phẩm hành động đáng xem nhất của năm 2011. ",
+            "image":"https://image.tmdb.org/t/p/w185//7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//zNyNPn86myH5Ix1demDa5dfYDao.jpg"
+
+        },
+        {
+            "id":22,
+            "mainTitle":"Guadians of the Galaxy Vol.2 (2017)",
+            "subTitle":"Vệ binh dãy ngân hà 2",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h37m",
+            "MIDB":"5.3",
+            "description":"Guardians Of The Galaxy - Vệ binh dải ngân hà Phần 2 tiếp tục câu chuyện về bộ tứ huyền thoại của thiên hà. Lần này, cả nhóm sẽ bắt đầu cuộc phiêu lưu mới nhằm tìm ra bí ẩn thân thế của Star Lord – Peter Quill và viên Power Infinity Gem sở hữu sức mạnh vô song. Nhân vật anti-hero Yondu sẽ có vai trò quan trọng hơn nữa trong phần này, bên cạnh đó cô em gái Nebula của Gamora cũng sẽ trở lại.",
+            "image":"https://image.tmdb.org/t/p/w185//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//aJn9XeesqsrSLKcHfHP4u5985hn.jpg"
+
+        },
+        {
+            "id":23,
+            "mainTitle":"Blackkklansman (2018)",
+            "subTitle":"Cuộc phiêu lưu của Tin tin",
+            "degree":3,
+            "level":"intermediate",
+            "time":"01h47m",
+            "MIDB":"7.4",
+            "description":"BlacKkKlansman được chuyển thể từ cuốn sách Black Klansman của tác giả Ron Stallworth, dựa trên những hoạt động điều tra có thật của ông vào cuối thập niên 1970. Phim theo chân một cảnh sát da đen thành phố Colorado Springs được giao nhiệm vụ xâm nhập vào một chi nhánh của tổ chức bài da đen Ku Klux Klan. Nhưng rồi số phận cuộc đời anh bắt đầu thay đổi từ đó, anh trở thành thủ lĩnh số 1 của tổ chức. -- Hội Kín Ku Klux Klan, thường được gọi là KKK hay đơn giản là Klan, là tên gọi chung của ba phong trào trong ba thời kỳ ở Mỹ với các thành viên chủ yếu là nam giới da trắng ủng hộ các quan điểm cực đoan, chẳng hạn như thuyết người da trắng thượng đẳng, phân biệt chủng tộc, chống nhập cư, bài Do Thái, bài Công giáo. ",
+            "image":"https://image.tmdb.org/t/p/w185//55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//gMVdhfQ7q9DFHhDkehrququjGPd.jpg"
+
+        },
+        {
+            "id":24,
+            "mainTitle":"John Wick (2014)",
+            "subTitle":"Mạng đổi mạng",
+            "degree":3,
+            "level":"intermediate",
+            "time":"02h15m",
+            "MIDB":"7.2",
+            "description":"Sau cái chết bất ngờ của người vợ, John Wick nhận được món quà cuối cùng từ cô ấy, một chú chó nhỏ giống beagle tên Daisy, và một lời nhắn xin anh đừng quên cách yêu thương. Nhưng sự đau buồn của John đã bị gián đoạn khi chiếc Boss Mustang 1969 lọt vào tầm ngắm của tên côn đồ Iosef Tarasov . Khi John từ chối bán chiếc xe, Iosef cùng với tay sai đột nhập vào nhà John và đánh cắp nó, làm anh bất tỉnh và giết chết Daisy. Một cách vô tình, chúng đã đánh thức một trong những sát thủ tàn bạo nhất của thế giới ngầm. ",
+            "image":"https://image.tmdb.org/t/p/w185//h3VxEVUOoBZmo79O8RqKvyGiqmE.jpg",
+            "background":"https://image.tmdb.org/t/p/w1280//ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg"
+
+        }
+    ],
+    "feedback":[
+        {
+            "id":"1",
+            "use": "Trịnh Ngọc Ánh ",
+            "job":"Sinh viên đại học kinh tế quốc dân",
+            "thumbnail":"https://phimlearning.com/public/images/home/user1.jpg",
+            "message":"Mình là Ánh , mình được biết học tiếng anh qua phim là một hình thức học mới và rất hiệu quả. Những trải nghiệm đầu tiên qua Phim Learning làm mình khá thích thú và hài lòng . Không chỉ học từ vựng , hệ thống lưu từ và nhắc nhở học lại thực sự quá tuyệt vời . Mong đội ngũ tiếp tục phát triển và ngày càng thành công hơn."
+
+        },
+        {
+            "id":"2",
+            "use": "Ứng Thùy Linh",
+            "job":"Feelancer",
+            "thumbnail":"https://phimlearning.com/public/images/home/user2.jpg",
+            "message":"Công việc của mình khá bận rộn và ít có thời gian để học tiếng anh . Sau một khoảng thời gian tìm và thử các phương pháp học tiếng anh tại nhà , học tiếng anh qua phim thực sự rất hiệu quả đối với người như mình. Thông qua các bộ phim , không chỉ truyền tải nội dung sâu sắc , mình còn học được khá nhiều từ vựng , cách phát âm , ngữ điệu từ các nhân vật trong từng bộ phim . Thực sự cảm ợn Phim Learning đã đem lại cho người dùng và đặc biệt là mình một phương pháp học tiếng anh mới và thực sự hiệu quả đến như vậy ."
+
+        },
+        {
+            "id":"3",
+            "use": "Thế Phan",
+            "job":"Cựu Technaical CEO của Esy",
+            "thumbnail":"https://phimlearning.com/public/images/home/user3.jpg",
+            "message":"Ứng dụng thật tuyệt vời , việc học tiếng anh qua phim đối với mình chưa bao giờ dễ dàng đến thế. Mình có thể vừa xem phim tiếng anh , vừa học từ vựng ở bất cứ đâu , bất cứ thời điểm nào trong ngày . Từ khi biết đến Phim Learning , vốn từ vựng tiếng anh của mình cải thiện đáng kể . Không những thế , việc thư giãn qua phim khiến mình không cảm thấy áp lực một chút nào cả.Trước đây , học tiếng anh qua phim có phụ đề luôn khiến mình gặp rối lớn đó là tra từ  và lưu từ .Các bạn đã giải quyết điều đó thực sự tốt , mong đội ngũ Phim Learning tiếp tục đi đúng hướng để có thể giúp những người học tiếng anh như mình ngày càng cảm thấy yêu tiếng anh hơn."
+
+        }
+    ]
+}

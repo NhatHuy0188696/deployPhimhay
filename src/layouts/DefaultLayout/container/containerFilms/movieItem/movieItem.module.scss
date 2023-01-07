@@ -1,0 +1,387 @@
+.wrapper{
+    width: 49%;
+    margin-right: 12px;
+    .movie-item{
+        overflow: hidden;
+        width: 100%;
+      
+    }
+    .movie-image {
+        position: relative;
+        cursor: pointer;
+        transition: all 0.2s;
+        overflow: hidden;
+        width: 100%;
+        .movie-infor{
+            bottom: 36px;
+        }
+    
+        img {
+        width: 100%;
+           
+        }
+        &:hover {
+            transform: scale(1.06);
+        }
+        
+    }
+    .movie-image:hover .movie-infor{
+        display: none;
+    }
+    .movie-image:hover .filter-color--hover{
+        display: block;
+    }
+    .movie-image:hover .movie-overview{
+        display: block;
+    
+    }
+    .movie-infor {
+        position: absolute;
+        bottom: 14px;
+        left: 30px;
+        color: #fff;
+        line-height: 1.4;
+        
+        h3 {
+            font-size: 2.2rem;
+        }
+        p {
+            font-size: 2rem;
+        }
+    }
+    .filter-color {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), hsla(0, 0%, 100%, 0));
+    }
+    .filter-color--hover{
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.4);
+        display: none;
+        
+    }
+    .movie-overview{
+        display: none;
+       
+    }
+    .movie-heart{
+        position: absolute;
+        top: 2rem;
+        right: 4.2rem;
+        font-size: 2.2rem;
+        color: #fff;
+    }
+    .movie-play{
+        position:absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 4.8rem;
+        opacity: 0.8;
+        color: #fff;
+        &:hover{
+            opacity: 1;
+        }
+    }
+    .movie-evaluate{
+        position: absolute;
+        bottom: 3.2rem;
+        left: 2.2rem;
+        display: flex;
+        color: #fff;
+        align-items: center;
+       
+    }
+    
+    .movie-degree{
+        font-size: 1.8rem;
+        margin-right: 4px;
+        display: flex;
+        align-items: center;
+    }
+    .movie-level{
+        margin-left: 4px;
+    }
+    .movie-times{
+        display: flex;
+        margin: 0 12px 0 22px;
+        align-items: center;
+    }
+    .films-time{
+        margin-left: 4px;
+        font-size: 1.4rem;
+        margin-top: 2px;
+    }
+    .movie-judge{
+        display: flex;
+        align-items: center;
+    }
+    .judge-title{
+        background: var( --box-level-2);
+        padding: 6px;
+        background: var(--box-level-2);
+        color: #000;
+        font-weight: 900;
+        font-size: 1.6rem;
+        border-radius: 4px;
+    
+    }
+    .movie-imdb{
+        margin-left: 0.6rem;
+    }
+    
+}
+
+.wrapper.col_2{
+    width: 48%;
+    margin-right: 8px;
+    margin-bottom: 6px;
+    .movie-infor {
+        position: absolute;
+        bottom: 14px;
+        left: 30px;
+        color: #fff;
+        line-height: 1.4;
+        
+        h3 {
+            font-size: 1.6rem;
+        }
+        p {
+            font-size: 1.4rem;
+        }
+    }
+    .movie-degree{
+        font-size: 1.2rem;
+       
+    }
+    .movie-level{
+        font-size: 1.3rem;
+    }
+    .movie-evaluate {
+        left: 1.2rem;
+        bottom: 1.6rem;
+    }
+    .movie-times{
+        margin: 0 4px;
+      }
+      .films-time{
+        font-size: 1.3rem;
+    }
+    .movie-imdb{
+        font-size: 1.3rem;
+    }
+    .judge-title{
+        padding: 4px;
+        font-size: 1.2rem;
+    }    
+}
+.wrapper.col_full{
+    width: 100%;
+    .movie-infor {
+        left: 8px;
+        bottom: 2.6rem;
+        h3{
+           font-size:  1.7rem;
+        }
+        p{
+            font-size:1.4rem;
+        }
+    }
+    .movie-heart{
+        right: 1.2rem;
+    }
+    .movie-play{
+        font-size: 3.8rem;
+    }
+    .movie-evaluate{
+        left: 1.2rem;
+        flex-wrap: wrap;
+    }
+    .films-time{
+        margin-right: 4px;
+    }
+    .movie-degree{
+        font-size: 1.4rem;
+      
+    }
+    .movie-level{
+        font-size: 1.4rem;
+    }
+    .movie-times{
+        margin: 0 0px;
+    }
+    .movie-judge{
+      margin-top: 4px;
+    }
+    .judge-title{
+        font-size: 1.2rem;
+    }
+    .movie-imdb{
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 1300px) {
+    .wrapper.col_2{
+        width: 100%;
+        margin: 0;
+        &:nth-child(n+2){
+            display: none;
+        }
+        .movie-infor {
+            font-size: 1.6rem;
+            bottom: 3.6rem;
+            h3{
+                font-size: 2rem;
+            }
+            p{
+                font-size: 2rem;
+            }
+        }
+        .movie-evaluate {
+            left: 2.2rem;
+            bottom: 3.2rem;
+        }
+        .movie-degree{
+            font-size: 1.8rem;
+        }
+        .movie-level{
+            font-size: 1.5rem;
+        }
+        .movie-times{
+            margin: 0 12px 0 22px;
+          }
+        .judge-title{
+            padding: 4px;
+            font-size: 1.6rem;
+        }
+    }
+}
+@media (max-width: 1024px) {
+    .wrapper,
+    .wrapper.col_2{
+        .movie-infor{
+            h3{
+                font-size: 1.8rem;
+            }
+            p{
+                font-size: 1.6rem
+            }
+        }
+        .movie-evaluate{
+            left: 2rem;
+        }
+        .movie-infor p{
+            font-size: 1.6rem;
+        }
+        .movie-degree{
+            font-size: 1.6rem;
+            margin-right: 4px;
+        }
+        .movie-times{
+            margin: 0 6px 0 12px;
+        }
+        .judge-title{
+            font-size: 1.2rem;
+        }
+    }
+}
+@media (max-width: 768px){
+    .wrapper{
+        width: 100%;
+        margin-bottom: 1.2rem;
+    }
+    .wrapper.col_full{
+
+        .movie-degree{
+            button{
+                font-size: 1.4rem;
+            }
+          
+        }
+        
+        .movie-level{
+            font-size: 1.4rem;
+        }
+        .judge-title{
+            font-size: 1.2rem;
+        }
+        .movie-imdb{
+            font-size: 1.4rem;
+        }
+        .movie-evaluate{
+            
+            left: 0.8;
+        }
+        .movie-judge{
+            margin: 4px 0;
+        }
+    }
+}
+@media (max-width: 600px){
+    .wrapper,
+    .wrapper.col_2{
+        .movie-image {
+            .movie-infor{
+                
+                bottom: 12px;
+               h3{
+                font-size: 1.4rem;
+               }
+               p{
+                font-size: 1.2rem;
+               }
+            }
+        }
+        .movie-evaluate{
+            left: 1.6rem;
+            bottom: 1rem;
+        }
+        .movie-degree{
+            font-size: 1.2rem;
+            margin-right: 4px;
+        }
+        
+        .movie-level{
+            font-size: 1.2rem;
+        }
+        .films-time{
+            font-size: 1.2rem;
+        }
+        .judge-title{
+            font-size: 1rem;
+        }
+        .movie-imdb{
+            font-size: 1.2rem;
+        }
+    }
+    .wrapper.col_full{
+        .movie-degree{
+            button{
+                font-size: 1.2rem;
+            }
+          
+        }
+        .movie-level{
+            font-size: 1.2rem;
+        }
+        .judge-title{
+            font-size: 1rem;
+        }
+        .movie-imdb{
+            font-size: 1.2rem;
+        }
+        .movie-times{
+            margin: 4px 0;
+        }
+    }
+    
+   
+}

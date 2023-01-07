@@ -1,0 +1,277 @@
+.menu {
+    display: flex;
+
+    align-items: center;
+    color: var(--while-color);
+    padding-left: 4%;
+    padding-right: 4%;
+
+    height: 90px;
+
+    font-weight: 600;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top: 8px;
+    transition: 'all 0.2s';
+}
+
+.topic .topic-title {
+    padding: 1.6rem 2.1rem;
+    position: relative;
+    &::after {
+        content: '';
+        position: absolute;
+        width: 100px;
+        height: 50px;
+
+        bottom: -20;
+        left: 10px;
+    }
+}
+.navbar li a span {
+    margin-left: 4px;
+    font-size: 1.6rem;
+}
+.navbar .topic {
+    text-transform: uppercase;
+    position: relative;
+    &:not(.nohover):hover .topic-icon {
+        transform: rotate(180deg);
+    }
+}
+.topic-icon {
+    transition: 0.4s;
+}
+.navbar .trending {
+    position: relative;
+    display: block;
+    padding: 0 2.1rem;
+    &::after {
+        content: '';
+        width: 100%;
+        height: 2px;
+        background-color: var(--line);
+        position: absolute;
+        display: none;
+        bottom: -8px;
+        left: 0;
+    }
+    &:hover::after {
+        display: block;
+    }
+}
+.action {
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.item.search {
+    flex: 1;
+    margin-left: auto;
+    margin-right: 18px;
+}
+
+.item.login {
+    padding: 0 2.1rem;
+}
+.item.experience {
+    margin: 0 2.2rem;
+    a,
+    button{
+        text-transform: uppercase;
+    }
+}
+.item.popular {
+    padding: 0 2.1rem;
+    position: relative;
+    &::after {
+        content: '';
+        width: 100%;
+        height: 2px;
+        background-color: var(--line);
+        position: absolute;
+        display: none;
+        bottom: -8px;
+        left: 0;
+    }
+    &:hover::after {
+        display: block;
+    }
+}
+
+.item.login {
+    text-transform: uppercase;
+    margin-left: 14px;
+
+    font-size: 1.4rem;
+    position: relative;
+
+    &::after {
+        display: none;
+        content: '';
+        position: absolute;
+        width: 100%;
+        background-color: var(--line);
+        height: 2px;
+        left: 0;
+        bottom: -8px;
+    }
+    &:hover::after {
+        display: block;
+    }
+}
+
+// user login
+.current-user {
+    margin: 0 10px 0 32px;
+    a {
+        display: flex;
+        align-items: center;
+    }
+}
+.current-image {
+    width: 53px;
+    height: 53px;
+    border-radius: 50%;
+    border: 2.5px solid var(--while-color);
+    position: relative;
+    margin-right: 8px;
+    & img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+}
+.user-level {
+    position: absolute;
+    background-color: #d8d8d8;
+    color: #000;
+    bottom: -3px;
+    left: 8px;
+    border-radius: 2px;
+}
+.current-image:hover + .arrow-down {
+    visibility: visible;
+}
+
+.arrow-down {
+    border-top: 10px solid hsla(0, 0%, 100%, 0.8);
+
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+
+    visibility: hidden;
+    margin-top: 10px;
+}
+.user-level {
+    font-size: 1rem;
+    padding: 1px 4px;
+    margin: 0;
+}
+// responsive
+//table Pro
+@media (max-width: 1300px) {
+    .topic .topic-title {
+        padding: 0 0.6rem;
+    }
+    .navbar .trending {
+        padding: 0 0.6rem;
+    }
+    .item.login {
+        padding: 0 0.6rem;
+    }
+    .item.search {
+        margin-right: 16px;
+    }
+}
+// tablet
+@media (max-width: 1023px) {
+    .menu {
+        display: block;
+        padding-top: 18px;
+        background-color: #232323;
+        height: 68px;
+        overflow: hidden;
+    }
+
+    .navbar {
+        display: block;
+    }
+    .item.search {
+        position: fixed;
+        top: 10px;
+        right: 86px;
+        width: 300px;
+        margin-top: 4px;
+    }
+    .item.bars {
+        position: fixed;
+        top: 13px;
+
+        right: 24px;
+
+        min-width: 30px;
+        min-height: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .bars-icon {
+        font-size: 26px;
+        padding: 4px 12px;
+    }
+    .navbar .item {
+        margin-left: 0;
+        padding-left: 0;
+
+        a {
+            margin-left: 0;
+        }
+    }
+    .topic .topic-title {
+        padding: 0;
+    }
+    .topic,
+    .trending,
+    .login,
+    .experience {
+        margin: 32px 0;
+    }
+    .experience {
+        text-align: center;
+    }
+    .item.popular {
+        margin-bottom: 12px;
+    }
+}
+// tablet
+
+// mobile
+@media (max-width: 599px) {
+    .item.search {
+        width: 150px;
+        margin: 0;
+    }
+    .menu {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .item.bars {
+        right: 10px;
+    }
+    .item.search {
+        right: 50px;
+        top: 12px;
+    }
+    .item.popular {
+        margin-bottom: 12px;
+    }
+    .bars-icon {
+        font-size: 18px;
+        padding: 5px 8px;
+    }
+}

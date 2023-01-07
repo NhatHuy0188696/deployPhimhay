@@ -1,0 +1,27 @@
+.wrapper{
+    height: 90px;
+    z-index: 99999;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+// nav menu
+
+
+// tablet
+@media (max-width: 1023px )
+{
+    
+    .logo img{
+        width: 150px;
+    }
+}
+@media (max-width:599px){
+    .logo img{
+        width: 118px;
+        margin-top: 4px;
+    }
+}

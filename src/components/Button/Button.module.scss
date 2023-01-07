@@ -1,0 +1,64 @@
+.wrapper{
+ 
+
+    color: black;
+    background-color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+    color: #fff;
+    
+    user-select: none;
+    
+}
+.primary{
+    background-color: var(--primary);
+  
+  
+    border-radius: 4px;
+   
+}
+.ouline{
+ 
+    border-radius: 4px;
+  
+   font-weight: 700;
+    background: hsla(0,0%,100%,.3);
+}
+.disable{
+    opacity: 0.8;
+    pointer-events: none;
+    cursor: none;
+}
+// size button
+.medium{
+    padding: 16px 21px;
+    
+}
+.smail{
+    padding: 6px 16px;
+ 
+}
+.smailTablet{
+    padding: 6px 6px;
+    min-width: 100%;
+}
+.larger{
+    padding: 16px 48px;
+    border-radius: 30px;
+
+}
+.event{
+    border-radius: 5px;
+    background-image: linear-gradient(90deg,#faa064,#dbbf58);
+}
+.ready{
+    color: #111;
+    border-radius: 999px;
+    &:hover{
+        background-color: var(--primary);
+    }
+}
+.icon{
+    margin-top: 6px;
+    margin-right: 4px;
+}

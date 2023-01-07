@@ -1,0 +1,23 @@
+.infor-list{
+    color: #fff;
+    flex: 1;
+    margin: 0 30px;
+    text-align: center;
+    
+    .infor-title{
+        margin: 16px 0;
+        font-size: 1.8rem;
+    }
+    .infor-description{
+        text-align: left;
+    }
+}
+@media(max-width:600px){
+    .infor-list
+    {
+        margin-bottom: 32px;
+        img{
+            width: 120px;
+        }
+    }
+}

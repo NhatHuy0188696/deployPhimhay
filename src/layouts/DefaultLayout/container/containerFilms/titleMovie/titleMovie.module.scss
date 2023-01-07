@@ -1,0 +1,67 @@
+
+
+.movie-title {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    button{
+       
+        margin-right: 12px;
+    }
+    cursor: pointer;
+    img {
+        margin-right: 12px;
+    }
+    span {
+        font-size: 18px;
+        font-weight: 700;
+        position: relative;
+        &:hover::after {
+            display: block;
+        }
+        &::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            bottom: -8px;
+            left: 2px;
+            background-color: var(--while-color);
+            display: none;
+        }
+    }
+    .logo-nextSub {
+        margin-top: 5px;
+    }
+}
+.movie-films {
+    margin: 16px 0;
+   
+    margin-right: 2px;
+}
+@media (max-width:768px){
+    .movie{
+        padding: 0;
+    }
+}
+@media (max-width: 600px) {
+    .movie-title{
+        span{
+            font-size: 1.4rem;
+        }
+        .logo-nextSub{
+            width: 2rem;
+        }
+    }
+    .movie-title{
+        img,
+        button{
+            margin-right: 4px;
+        }
+    }
+    
+  
+}
+

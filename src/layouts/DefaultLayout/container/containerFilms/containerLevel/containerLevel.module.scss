@@ -1,0 +1,47 @@
+.filmsLevel {
+   margin-top: 18px ;
+  
+ 
+   .slick-level{
+      margin-top: -30px;
+   }
+}
+.movie-list{
+   margin-right: 4px;
+   margin-bottom: 60px;
+}
+.dots-movie{
+   top: -38px;
+   right: 0px;
+   text-align: right;
+   height:10px;
+}
+.slick-prev, .slick-next{
+   color: red;
+}
+.dots-movie li button{
+   width: 24px;
+   height: 4px;
+   background-color: #ccc;
+   border-radius: 4px;
+   padding: 0;
+}
+.dots-movie li:global(.slick-active) button {
+  
+
+   background-color: #fff;
+}
+.dots-movie li button::before{ 
+   content: '';
+}
+.slider-filmsLevel .slick-arrow.slick-prev{
+   margin-top: -30px;
+}
+@media (max-width: 768px){
+  
+   
+   
+   .dots-movie{
+       right: 8px;
+   }
+}

@@ -1,0 +1,19 @@
+.wrapper{
+    color: #fff;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+}
+.beginner{
+    background: var(--box-level-1);
+}
+.highBeginer{
+    background: var(--box-level-2);
+}
+.intermedite{
+    background: var(--box-level-3);
+}
+.highIntermedite{
+    background: var(--box-level-3);
+}

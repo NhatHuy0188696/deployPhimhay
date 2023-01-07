@@ -1,0 +1,59 @@
+
+
+.movie-list {
+    display: flex;
+    margin-right: 4px;
+    
+   
+}
+
+.trending-col_2 {
+    display: flex;
+    flex-wrap: wrap;
+   width: 50%;
+   height: 100%;
+   
+}
+
+
+.dots-movie{
+    top: 0px;
+    right: 36px;
+    text-align: right;
+    height:10px;
+}
+
+.dots-movie li button{
+    width: 24px;
+    height: 4px;
+    background-color: #ccc;
+    border-radius: 4px;
+    padding: 0;
+}
+.dots-movie li:global(.slick-active) button {
+   
+
+    background-color: #fff;
+}
+.dots-movie li button::before{ 
+    content: '';
+}
+
+@media (max-width: 1300px) {
+    .trending-col_2{
+        width: 49%;
+    }
+}
+
+@media (max-width: 767px){
+    .movie-list {
+        display: block;
+    }
+    .trending-col_2{
+        width: 100%;
+        
+    }
+    .dots-movie{
+        right: 8px;
+    }
+}

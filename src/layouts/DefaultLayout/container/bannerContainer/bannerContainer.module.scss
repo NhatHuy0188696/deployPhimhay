@@ -1,0 +1,220 @@
+.wrapper-banner{
+    position: relative;
+}
+.slider-item {
+    display: table;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.slider-image {
+    position: relative;
+    float: right;
+    &::after {
+        content: '';
+        position: absolute;
+        width: 400px;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-image: linear-gradient(90deg, #000, transparent);
+    }
+    img {
+        max-width: 100%;
+    }
+}
+.shadow {
+    position: absolute;
+    background-image: var(--background-image);
+    width: 100%;
+    height: 100%;
+}
+.slider-infor {
+    width: 50%;
+
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+
+    position: absolute;
+    /* margin-top: 125px; */
+    top: 180px;
+    left: 62px;
+    z-index: 10;
+    .slider-infor--name {
+        font-size: 48px;
+        margin-bottom: 1.6rem;
+    }
+}
+.slider-type--score {
+    display: flex;
+}
+.slider-score,
+.slider-genre {
+    border: 1px solid var(--while-color);
+    padding: 3px 7px;
+    margin-right: 8px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+.slider-score {
+    display: flex;
+}
+.slider-genre a:hover {
+    border-bottom: 0.8px solid var(--while-color);
+}
+.slider-score span {
+    font-weight: 700;
+    margin-left: 4px;
+}
+.slider-title {
+    margin: 1.8rem 0;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+.slider-icon {
+    margin-right: 6px;
+}
+.slider-option button {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    margin-right: 2px;
+}
+.dost-image {
+    width: 100%;
+    height: 100%;
+}
+.slick-dots {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    width: 100%;
+    right: 70px;
+    bottom: 24px;
+    li {
+        margin-right: 12px;
+        width: 81px;
+        height: 46px;
+    }
+    li:global(.slick-active) {
+        border: 2px solid var(--primary);
+    }
+}
+@media (max-width: 1300px) {
+    .slider-title {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .slick-dots {
+        right: 38px;
+        bottom: 22px;
+    }
+}
+@media (max-width: 1023px) {
+    .slider-infor{
+        width: 70%;
+    }
+    .slider-title {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .slider-image {
+        margin-top: 56px;
+    }
+    .slider-infor {
+        top: 140px;
+        left: 32px;
+    }
+    .slider-infor {
+        .slider-infor--name {
+            font-size: 34px;
+        }
+    }
+    .slick-dots {
+        bottom: 0;
+        li {
+            width: 60px;
+            height: 40px;
+        }
+    }
+    .slider-option button {
+        font-size: 1.4rem;
+    }
+}
+// small tablet
+@media (max-width: 600px) {
+    .slider-infor {
+        top: 96px;
+        .slider-infor--name {
+            font-size: 28px;
+            margin-bottom: 1.4rem;
+        }
+    }
+    .slider-score,
+    .slider-genre {
+        font-size: 1.1rem;
+    }
+    .slider-title {
+        font-size: 1.6rem;
+        margin: 1.2rem 0;
+    }
+    .slick-dots {
+        bottom: 0;
+        right: 22px;
+    }
+}
+@media (max-width: 599px) {
+    .slider-infor {
+        top: 80px;
+    }
+    .slider-title {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .slider-infor {
+        left: 10px;
+        
+        .slider-infor--name {
+            font-size: 1.7rem;
+            margin-bottom: 0.8rem;
+        }
+    }
+    .slider-score,
+    .slider-genre {
+        font-size: 1rem;
+    }
+    
+    .slider-title {
+        font-size: 1.1rem;
+        margin: 0.8rem 0;
+    }
+    .slider-option button {
+        padding: 4px 8px;
+        font-size: 1rem;
+    }
+    .slick-dots {
+        bottom: -16px;
+        right: 0;
+        li {
+            width: 50px;
+            height: 30px;
+            margin-right: 8px;
+            
+        }
+    }
+  
+        
+}
+
