@@ -1,8 +1,9 @@
 const express = require('express');
 const favicon = require('express-favicon');
-
 const path = require('path');
-
+var http = require('http');
+var finalhandler = require('finalhandler')
+var _favicon = favicon(path.join(__dirname, 'public', 'favicon.ico'))
 const app = express();
 
 const buildDir = path.join(__dirname, '../build');
@@ -31,7 +32,19 @@ app.get('*', (req, res) => {
     }
     res.sendFile(path.join(buildDir, 'index.html'));
 });
-
+var server = http.createServer(function onRequest (req, res) {
+    var done = finalhandler(req, res)
+   
+    _favicon(req, res, function onNext (err) {
+      if (err) return done(err)
+   
+      // continue to process the request here, etc.
+   
+      res.statusCode = 404
+      res.end('oops')
+    })
+  })
+   
 const port = process.env.PORT || 3000;
 app.listen(port);
 
